@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOE data"
+    id="d645af10-125b-4f07-b2cf-a498718c56e4"
+    documentation="Data provided for the identified measurement needs">
+  <properties
+      key="en_Name"
+      value="MOE data"/>
+  <properties
+      key="de_Name"
+      value="Wirksamkeitsmessdaten"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Wirksamkeitsmessdaten sind die für die identifizierten Messbedarfe bereitgestellten Daten&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Data provided for the identified measurement needs"/>
+</archimate:BusinessObject>

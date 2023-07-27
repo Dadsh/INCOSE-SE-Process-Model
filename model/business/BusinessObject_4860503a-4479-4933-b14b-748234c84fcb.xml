@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Installed system"
+    id="4860503a-4479-4933-b14b-748234c84fcb"
+    documentation="Installed system ready for validation">
+  <properties
+      key="en_Name"
+      value="Installed system"/>
+  <properties
+      key="de_Name"
+      value="installiertes System"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein installiertes System ist ein für die Validierung bereitstehendes, installiertes System&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Installed system ready for validation"/>
+</archimate:BusinessObject>

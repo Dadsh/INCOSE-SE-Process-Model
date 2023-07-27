@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge management system"
+    id="fbac47f8-6f26-4803-a3ff-780a7c5b66f7"
+    documentation="Maintained knowledge management system. Project suitability assessment results for application of existing knowledge. Lessons learned from execution of the organizational SE processes on projects. Should include mechanisms to easily identify and access the assets and to determine the level of applicability for the project considering its use. Can be used by any life cycle process">
+  <properties
+      key="en_Name"
+      value="Knowledge management system"/>
+  <properties
+      key="de_Name"
+      value="Wissensmanagementsystem"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Ein Wissensmanagementsystem ist ein System zur Verwaltung von Wissen, das erhalten werden soll. Es umfasst die zur Beurteilung der Eignung vorhandenen Wissen für das Projekt sowie Erkenntnisse aus der Durchführung der SE-Prozesse der Organisation für das projekt. Das Wissensmanagementsystem sollte Mechanismen enthalten, die es erlauben, die Wissensbestände zu erkennen und auf sie zuzugreifen sowie einzuschätzen, in welchem Grad sie für das Projekt anwendbar sind. Es kann in jedem Lebenszyklusprozess genutzt werden."/>
+  <properties
+      key="en_Desc"
+      value="Maintained knowledge management system. Project suitability assessment results for application of existing knowledge. Lessons learned from execution of the organizational SE processes on projects. Should include mechanisms to easily identify and access the assets and to determine the level of applicability for the project considering its use. Can be used by any life cycle process"/>
+</archimate:BusinessObject>

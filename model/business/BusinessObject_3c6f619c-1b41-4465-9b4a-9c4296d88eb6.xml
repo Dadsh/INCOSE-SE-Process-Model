@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implementation report"
+    id="3c6f619c-1b41-4465-9b4a-9c4296d88eb6"
+    documentation="An account prepared for interested parties in order to communicate the status, results, and outcomes of the implementation activities">
+  <properties
+      key="en_Name"
+      value="Implementation report"/>
+  <properties
+      key="de_Name"
+      value="Umsetzungsbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Umsetzungsbericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Implementierungsaktivitäten zu kommunizieren&quot;."/>
+  <properties
+      key="en_Desc"
+      value="An account prepared for interested parties in order to communicate the status, results, and outcomes of the implementation activities"/>
+</archimate:BusinessObject>

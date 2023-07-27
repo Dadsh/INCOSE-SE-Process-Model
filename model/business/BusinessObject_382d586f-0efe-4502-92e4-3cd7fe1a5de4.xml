@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information management record"
+    id="382d586f-0efe-4502-92e4-3cd7fe1a5de4"
+    documentation="Permanent, readable form of data, information, or knowledge related to information management">
+  <properties
+      key="en_Name"
+      value="Information management record"/>
+  <properties
+      key="de_Name"
+      value="Informationsmanagementprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Informationsmanagement-Protokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf das Informationsmanagement&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Permanent, readable form of data, information, or knowledge related to information management"/>
+</archimate:BusinessObject>

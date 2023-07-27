@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project tailoring strategy"
+    id="895bf32c-acd8-4429-a9e4-b0ccb2ffcbf6"
+    documentation="Approaches, schedules, resources, and specific considerations required to incorporate and tailor the organization’s set of standard life cycle processes for a given project">
+  <properties
+      key="en_Name"
+      value="Project tailoring strategy"/>
+  <properties
+      key="de_Name"
+      value="Projektanpassungsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Projektanpassungsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um die Standard-Lebenszyklusprozesse einer Organisation im Rahmen eines Projekts anzupassen und einzuführen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Approaches, schedules, resources, and specific considerations required to incorporate and tailor the organization’s set of standard life cycle processes for a given project"/>
+</archimate:BusinessObject>

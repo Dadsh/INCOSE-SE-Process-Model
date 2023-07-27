@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acquired system"
+    id="354a60de-670c-48a0-bd49-e683fd58921c"
+    documentation="The system or system element (product or service) is delivered to the acquirer from a supplier consistent with the delivery conditions of the acquisition agreement">
+  <properties
+      key="en_Name"
+      value="Acquired system"/>
+  <properties
+      key="de_Name"
+      value="beschafftes System"/>
+  <properties
+      key="de_Desc"
+      value="Ein beschafftes System (Produkt oder Dienstleistung) ist eine vom Zulieferer an den Beschaffer gemäß den Lieferbedingungen des Beschaffungsvertrages ausgeliefertes System oder Systemelement."/>
+  <properties
+      key="en_Desc"
+      value="The system or system element (product or service) is delivered to the acquirer from a supplier consistent with the delivery conditions of the acquisition agreement"/>
+</archimate:BusinessObject>

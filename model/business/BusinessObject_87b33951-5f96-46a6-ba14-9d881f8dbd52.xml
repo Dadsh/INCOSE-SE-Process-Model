@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer satisfaction inputs"
+    id="87b33951-5f96-46a6-ba14-9d881f8dbd52"
+    documentation="Responses to customer satisfaction surveys or other instruments">
+  <properties
+      key="en_Name"
+      value="Customer satisfaction inputs"/>
+  <properties
+      key="de_Name"
+      value="Rückmeldungen zur Kundenzufriedenheit"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Die Rückmeldungen zur Kundenzufriedenheit sind die Antworten auf Umfragen zur Kundenzufriedenheit oder ähnliches."/>
+  <properties
+      key="en_Desc"
+      value="Responses to customer satisfaction surveys or other instruments"/>
+</archimate:BusinessObject>

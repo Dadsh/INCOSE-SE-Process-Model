@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operation report"
+    id="e3948655-b140-409e-ae79-bafb235f620c"
+    documentation="An account prepared for interested parties in order to communicate the status, results, and outcomes of the operation activities">
+  <properties
+      key="en_Name"
+      value="Operation report"/>
+  <properties
+      key="de_Name"
+      value="Betriebsbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Betriebsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Betriebsaktivitäten zu kommunizieren.&quot;"/>
+  <properties
+      key="en_Desc"
+      value="An account prepared for interested parties in order to communicate the status, results, and outcomes of the operation activities"/>
+</archimate:BusinessObject>

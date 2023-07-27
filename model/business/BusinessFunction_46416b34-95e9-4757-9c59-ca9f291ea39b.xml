@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integration"
+    id="46416b34-95e9-4757-9c59-ca9f291ea39b"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.8.1] The purpose of the Integration process is to synthesize a set of system elements into a realized system (product or service) that satisfies system requirements,&#xD;&#xA;architecture, and design.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 79">
+  <properties
+      key="en_Name"
+      value="Integration"/>
+  <properties
+      key="de_Name"
+      value="Integration"/>
+  <properties
+      key="de_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.8.1] The purpose of the Integration process is to synthesize a set of system elements into a realized system (product or service) that satisfies system requirements,&#xD;&#xA;architecture, and design."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.8.1] The purpose of the Integration process is to synthesize a set of system elements into a realized system (product or service) that satisfies system requirements,&#xD;&#xA;architecture, and design."/>
+</archimate:BusinessFunction>

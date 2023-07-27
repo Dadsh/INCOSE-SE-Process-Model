@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verification criteria"
+    id="d799ed49-121c-489d-b3bb-e4b8df04ac13"
+    documentation="The verification criteria (the measures to be assessed), who will perform verification activities, and the verification environments of the system of interest">
+  <properties
+      key="en_Name"
+      value="Verification criteria"/>
+  <properties
+      key="de_Name"
+      value="Verifikationskriterien"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Verifikationskriterien (zu untersuchende Kennzahlen) umfassen Verifikationsaktivitäten und auch das Verifikationsumfeld des Zielsystems&quot;."/>
+  <properties
+      key="en_Desc"
+      value="The verification criteria (the measures to be assessed), who will perform verification activities, and the verification environments of the system of interest"/>
+</archimate:BusinessObject>

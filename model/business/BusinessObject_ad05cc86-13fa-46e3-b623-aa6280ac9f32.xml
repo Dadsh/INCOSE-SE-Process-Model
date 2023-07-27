@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trained operators and maintainers"
+    id="ad05cc86-13fa-46e3-b623-aa6280ac9f32"
+    documentation="Trained humans that will operate and maintain the system">
+  <properties
+      key="en_Name"
+      value="Trained operators and maintainers"/>
+  <properties
+      key="de_Name"
+      value="geschulte Betreiber und Instandhalter"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Geschulte Betreiber und Instandhalter sind für die Bedienung und Warung des Systems ausgebildete Menschen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Trained humans that will operate and maintain the system"/>
+</archimate:BusinessObject>

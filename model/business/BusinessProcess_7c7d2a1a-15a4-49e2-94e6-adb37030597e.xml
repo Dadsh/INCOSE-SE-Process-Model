@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan for project assessment and control"
+    id="7c7d2a1a-15a4-49e2-94e6-adb37030597e"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 109">
+  <properties
+      key="de_Name"
+      value="Planen der Projektbewertung und -steuerung"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Plan for project assessment and control"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

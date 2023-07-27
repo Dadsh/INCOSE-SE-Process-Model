@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Measurement record"
+    id="9b26bb44-5b46-4890-9d86-30fa22bdb03c"
+    documentation="Permanent, readable form of data, information, or knowledge related to measurement">
+  <properties
+      key="en_Name"
+      value="Measurement record"/>
+  <properties
+      key="de_Name"
+      value="Messprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Messprotokoll enthält lesbaren Aufzeichnunge der Daten, Informationen oder des Wissens bezogen auf die Messung&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Permanent, readable form of data, information, or knowledge related to measurement"/>
+</archimate:BusinessObject>

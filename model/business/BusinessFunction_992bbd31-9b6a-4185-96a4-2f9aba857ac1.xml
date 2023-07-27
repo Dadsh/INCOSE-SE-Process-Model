@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operation"
+    id="992bbd31-9b6a-4185-96a4-2f9aba857ac1"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.12.1] The purpose of the Operation process is to use the system to deliver its services.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 95">
+  <properties
+      key="en_Name"
+      value="Operation"/>
+  <properties
+      key="de_Name"
+      value="Betrieb"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.12.1] Der Zweck des Prozesses &quot;Betrieb&quot; besteht darin, die Dienste des Systems zu nutzen. Dieser Prozess findet häufig parallel zum Prozess &quot;Wartung&quot; statt&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.12.1] The purpose of the Operation process is to use the system to deliver its services."/>
+</archimate:BusinessFunction>

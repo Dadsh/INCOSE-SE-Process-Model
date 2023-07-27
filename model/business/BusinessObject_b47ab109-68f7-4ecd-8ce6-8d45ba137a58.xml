@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architecture traceability"
+    id="b47ab109-68f7-4ecd-8ce6-8d45ba137a58"
+    documentation="Bidirectional traceability of the architecture characteristics">
+  <properties
+      key="en_Name"
+      value="Architecture traceability"/>
+  <properties
+      key="de_Name"
+      value="Rückverfolgbarkeit der Architektur"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Rückverfolgbarkeit der Architektur bedeutet immer bidirektionale Nachverfolgbarkeit der Architektureigenschaften.&quot;"/>
+  <properties
+      key="en_Desc"
+      value="Bidirectional traceability of the architecture characteristics"/>
+</archimate:BusinessObject>

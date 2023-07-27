@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validated requirements"
+    id="3b0ecdf4-9356-439d-97d2-49d0ba3c3351"
+    documentation="Confirmation that the various requirements will satisfy the business and stakeholder requirements">
+  <properties
+      key="en_Name"
+      value="Validated requirements"/>
+  <properties
+      key="de_Name"
+      value="validierte Anforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die validierten Anforderungen sind die Beschäftigung, dass die gestellten Anforderungen die Geschäfts- und Stakeholder-Anforerungen erfüllen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Confirmation that the various requirements will satisfy the business and stakeholder requirements"/>
+</archimate:BusinessObject>

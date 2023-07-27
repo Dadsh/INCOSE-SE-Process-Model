@@ -1,0 +1,17 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acquisition reply"
+    id="6f7853a1-aa22-45bb-a0ca-7d0f4838e6fc"
+    documentation="The responses of one or more candidate suppliers in response to a request for supply">
+  <properties
+      key="en_Name"
+      value="Acquisition reply"/>
+  <properties
+      key="de_Name"
+      value="Zulieferungsangebot"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Desc"
+      value="The responses of one or more candidate suppliers in response to a request for supply"/>
+</archimate:BusinessObject>

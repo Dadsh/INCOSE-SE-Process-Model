@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System design rationale"
+    id="86206312-c218-48f6-a910-da68d48fd64d"
+    documentation="Rationale for design selection, system element selection, and allocation between system requirements and system element. Includes rationale of major selected implementation options and enablers">
+  <properties
+      key="en_Name"
+      value="System design rationale"/>
+  <properties
+      key="de_Name"
+      value="Begründung des Systementwurfs"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Begründung des Systementwurfs ist die Erklärung für die Auswahl eines Entwurfs, die Auswahl der Systemelemente und die Zuweisung der Systemanforderungen zu den Systemelementen. Die Begründung enthält die Erklärung für die maßgeblichen gewählten Möglichkeiten und Mittel der Umsetzung.&quot;"/>
+  <properties
+      key="en_Desc"
+      value="Rationale for design selection, system element selection, and allocation between system requirements and system element. Includes rationale of major selected implementation options and enablers"/>
+</archimate:BusinessObject>

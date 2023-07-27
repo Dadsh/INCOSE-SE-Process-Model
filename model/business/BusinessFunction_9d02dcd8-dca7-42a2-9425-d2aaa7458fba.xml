@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validation"
+    id="9d02dcd8-dca7-42a2-9425-d2aaa7458fba"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.11.1] The purpose of the Validation process is to provide objective evidence that the system, when in use, fulfills its business or mission objectives and stakeholder requirements, achieving its intended use in its intended operational environment.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 89">
+  <properties
+      key="en_Name"
+      value="Validation"/>
+  <properties
+      key="de_Name"
+      value="Validierung"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.11.1] Der Zweck des Prozesses &quot;Validierung&quot; ist es, nachzuweisen, dass das System die beabsichtigten Dienste in seiner vorgesehenen Betriebsumgebung erbringt. Gleichzeitig wird nachgewiesen, dass die Geschäfts- bzw. Auftragsziele und die Stakeholder-Anforderungen erfüllt werden&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.11.1] The purpose of the Validation process is to provide objective evidence that the system, when in use, fulfills its business or mission objectives and stakeholder requirements, achieving its intended use in its intended operational environment."/>
+</archimate:BusinessFunction>

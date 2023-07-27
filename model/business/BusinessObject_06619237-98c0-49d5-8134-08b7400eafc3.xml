@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintenance report"
+    id="06619237-98c0-49d5-8134-08b7400eafc3"
+    documentation="An account prepared for interested parties in order to communicate the status, results, and outcomes of the maintenance activities">
+  <properties
+      key="en_Name"
+      value="Maintenance report"/>
+  <properties
+      key="de_Name"
+      value="Wartungsbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Wartungsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und Ergebnisse der Wartungsaktivitäten zu kommunizieren&quot;."/>
+  <properties
+      key="en_Desc"
+      value="An account prepared for interested parties in order to communicate the status, results, and outcomes of the maintenance activities"/>
+</archimate:BusinessObject>

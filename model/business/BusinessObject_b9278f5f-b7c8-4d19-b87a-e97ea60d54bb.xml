@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintenance procedure"
+    id="b9278f5f-b7c8-4d19-b87a-e97ea60d54bb"
+    documentation="A maintenance procedure that includes a set of maintenance actions, using specific maintenance techniques, performed with specific maintenance enablers">
+  <properties
+      key="en_Name"
+      value="Maintenance procedure"/>
+  <properties
+      key="de_Name"
+      value="Wartungsverfahren"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Wartungsverfahren umfasst eine Reihe von Aktivitäten zur Warung eines Systems, die mittels speziellen Techniken und Hilfsmitteln dafür durchgeführt werden&quot;."/>
+  <properties
+      key="en_Desc"
+      value="A maintenance procedure that includes a set of maintenance actions, using specific maintenance techniques, performed with specific maintenance enablers"/>
+</archimate:BusinessObject>

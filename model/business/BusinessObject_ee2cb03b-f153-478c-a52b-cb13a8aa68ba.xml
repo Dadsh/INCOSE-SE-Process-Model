@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrated system or system elements"
+    id="ee2cb03b-f153-478c-a52b-cb13a8aa68ba"
+    documentation="Integrated system element or system ready for verification. The resulting aggregation of assembled system elements">
+  <properties
+      key="en_Name"
+      value="Integrated system or system elements"/>
+  <properties
+      key="de_Name"
+      value="integriertes System oder Systemelement"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein integriertes System oder Systemelement ist ein für die Verifikation bereitstehendes, integriertes Systemelement oder System, bzw. das Ergebnis des Zusammenbaus der Systemelemente&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Integrated system element or system ready for verification. The resulting aggregation of assembled system elements"/>
+</archimate:BusinessObject>

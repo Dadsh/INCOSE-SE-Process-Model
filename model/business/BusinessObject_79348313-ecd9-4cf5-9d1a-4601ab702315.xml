@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wartungsstrategie"
+    id="79348313-ecd9-4cf5-9d1a-4601ab702315"
+    documentation="Approaches, schedules, resources, and specific considerations required to perform corrective and preventive maintenance in conformance with operational availability requirements">
+  <properties
+      key="en_Name"
+      value="Wartungsstrategie"/>
+  <properties
+      key="de_Name"
+      value="Wartungsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Approaches, schedules, resources, and specific considerations required to perform corrective and preventive maintenance in conformance with operational availability requirements"/>
+  <properties
+      key="en_Desc"
+      value="Approaches, schedules, resources, and specific considerations required to perform corrective and preventive maintenance in conformance with operational availability requirements"/>
+</archimate:BusinessObject>

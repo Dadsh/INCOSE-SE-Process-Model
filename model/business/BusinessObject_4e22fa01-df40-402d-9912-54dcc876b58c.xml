@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System analysis strategy"
+    id="4e22fa01-df40-402d-9912-54dcc876b58c"
+    documentation="Approaches, schedules, resources, and specific considerations required to accomplish the various analyses to be carried out, including methods, procedures, evaluation criteria, or parameters">
+  <properties
+      key="en_Name"
+      value="System analysis strategy"/>
+  <properties
+      key="de_Name"
+      value="Systemanalysestrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Systemanalysestrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um die vielfältigen anstehenden Analysen durchzuführen. Schließt Betrachtungen zu Methoden, Verfahren, Bewertungskriterien und Parameter mit ein&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Approaches, schedules, resources, and specific considerations required to accomplish the various analyses to be carried out, including methods, procedures, evaluation criteria, or parameters"/>
+</archimate:BusinessObject>

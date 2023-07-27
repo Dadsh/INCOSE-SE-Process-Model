@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interface definition"
+    id="81b48bbc-5163-41b5-986d-f79cec1f99f8"
+    documentation="The logical and physical aspects of internal interfaces (between the system elements composing the system) and external interfaces (between the system elements and the elements outside the system of interest)">
+  <properties
+      key="en_Name"
+      value="Interface definition"/>
+  <properties
+      key="de_Name"
+      value="Schnittstellendefinition"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Schnittstellendefinition umfasst die logischen und physischen ASpekte von internen Schnittstellen (zwischen den Systemelementen aus denen das System besteht) und externen Schnittstellen (zwischen den Systemelementen und den Elementen außerhalb des Zielsystems)&quot;."/>
+  <properties
+      key="en_Desc"
+      value="The logical and physical aspects of internal interfaces (between the system elements composing the system) and external interfaces (between the system elements and the elements outside the system of interest)"/>
+</archimate:BusinessObject>

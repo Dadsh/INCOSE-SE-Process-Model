@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform process evaluations"
+    id="8e56b02a-3a02-4b7b-8779-d91ddbfe5476"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 137">
+  <properties
+      key="de_Name"
+      value="Durchführen von Prozessbewertungen"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Perform process evaluations"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

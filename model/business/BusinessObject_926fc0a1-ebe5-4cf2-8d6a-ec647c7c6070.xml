@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Final RVTM"
+    id="926fc0a1-ebe5-4cf2-8d6a-ec647c7c6070"
+    documentation="Final list of requirements, their verification attributes, and their traces. Includes any proposed changes to the system requirements due to the verification actions">
+  <properties
+      key="en_Name"
+      value="Final RVTM"/>
+  <properties
+      key="de_Name"
+      value="finale RVTM"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die finale RVTM entspricht der endgültigen Liste von Anforderungen, deren Verifikationsattributen und deren Verweise aufeinander. Sie beinhaltet alle aufgrund von Verifikationsaktivitäten vorgeschlagenen Änderungen der Systemanforderungen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Final list of requirements, their verification attributes, and their traces. Includes any proposed changes to the system requirements due to the verification actions"/>
+</archimate:BusinessObject>

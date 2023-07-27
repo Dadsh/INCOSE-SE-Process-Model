@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transition"
+    id="f7d4f910-6275-49bd-98aa-f81c73f3925b"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.10.1] The purpose of the Transition process is to establish a capability for a system to provide services specified by stakeholder requirements in the operational environment.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 88">
+  <properties
+      key="en_Name"
+      value="Transition"/>
+  <properties
+      key="de_Name"
+      value="Übergabe"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.10.1] Der Zweck des Prozesses &quot;Übergabe&quot; besteht darin, ein System zu befähigen, die in den Stakeholder-Anforderungen spezifizierten Dienste in der Betriebsumgebung zu erbringen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.10.1] The purpose of the Transition process is to establish a capability for a system to provide services specified by stakeholder requirements in the operational environment."/>
+</archimate:BusinessFunction>

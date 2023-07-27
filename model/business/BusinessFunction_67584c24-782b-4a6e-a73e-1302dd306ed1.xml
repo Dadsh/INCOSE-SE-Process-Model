@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Life Cycle Model Management"
+    id="67584c24-782b-4a6e-a73e-1302dd306ed1"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.2.1.1] The purpose of the Life Cycle Model Management process is to define, maintain, and assure availability of policies, life cycle processes, life cycle models, and procedures for use by the organization with respect to the scope of [ISO/IEC/IEEE 15288].&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 145">
+  <properties
+      key="en_Name"
+      value="Life Cycle Model Management"/>
+  <properties
+      key="de_Name"
+      value="Lebenszyklusmodell-Management"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.2.1.1] Der Zweck des Prozesses &quot;Lebenszyklusmodell-Management&quot; ist das Definieren, Pflegen und Sicherstellen der Verfügbarkeit von Richtlinien, Lebenszyklusprozessen, Lebenszyklusmodellen und Verfahren sowie deren Anwendung innerhalb der Organisation im Geltungsbereich der [ISO/IEC/IEEE 15288]&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.2.1.1] The purpose of the Life Cycle Model Management process is to define, maintain, and assure availability of policies, life cycle processes, life cycle models, and procedures for use by the organization with respect to the scope of [ISO/IEC/IEEE 15288]."/>
+</archimate:BusinessFunction>

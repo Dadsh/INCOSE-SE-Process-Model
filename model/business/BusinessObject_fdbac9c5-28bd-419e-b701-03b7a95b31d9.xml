@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acquisition payment"
+    id="fdbac9c5-28bd-419e-b701-03b7a95b31d9"
+    documentation="Payments or other compensations for the acquired system. Includes remitting and acknowledgement">
+  <properties
+      key="en_Name"
+      value="Acquisition payment"/>
+  <properties
+      key="de_Name"
+      value="Bezahlung der Beschaffung"/>
+  <properties
+      key="de_Desc"
+      value="Die Bezahlung der Beschaffung umfasst die Zahlungen oder andere Vergütungen für das beschaffte System. Das beinhaltet sowohl Zahlungsleistungen als auch Empfangsbestätigung der Bezahlung."/>
+  <properties
+      key="en_Desc"
+      value="Payments or other compensations for the acquired system. Includes remitting and acknowledgement"/>
+</archimate:BusinessObject>

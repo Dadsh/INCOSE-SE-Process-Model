@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stakeholder Needs and Requirements Definition"
+    id="13e19b84-beca-474c-8ab9-9d006c72bffb"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.2.1] The purpose of the Stakeholder Needs and Requirements Definition process is to define the stakeholder requirements for a system that can provide the capabilities needed by users and other stakeholders in a defined environment.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 52">
+  <properties
+      key="en_Name"
+      value="Stakeholder Needs and Requirements Definition"/>
+  <properties
+      key="de_Name"
+      value="Definition der Stakeholder-Bedarfe und -Anforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.2.1] Zweck des Prozesses &quot;Definition der Stakeholder-Bedarfe und -Anforderungen&quot; ist die Aufnahme sämtlicher Anforderungen an ein System, das die von Nutzern und anderen Stakeholdern benötigten Leistungen in einer definierten Umgebung erbringt&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.2.1] The purpose of the Stakeholder Needs and Requirements Definition process is to define the stakeholder requirements for a system that can provide the capabilities needed by users and other stakeholders in a defined environment."/>
+</archimate:BusinessFunction>

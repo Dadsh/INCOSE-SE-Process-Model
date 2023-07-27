@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decision Management"
+    id="9261e84f-49e1-46f8-86ee-ed7fdb1ca83a"
+    documentation="As defined by ISO/IEC/IEEE 15288,&#xD;&#xA;[6.3.3.1] The purpose of the Decision Management process is to provide a structured, analytical framework for objectively identifying, characterizing and evaluating a set of alternatives for a decision at any point in the life cycle and select the most beneficial course of action.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 110">
+  <properties
+      key="en_Name"
+      value="Decision Management"/>
+  <properties
+      key="de_Name"
+      value="Entscheidungsmanagement"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.3.1] Der Zweck des Prozesses &quot;Entscheidungsmanagement&quot; ist, einen strukturierten, analytischen Rahmen für Entscheidungnen bereitzustellen. Innerhalb dieses Rahmens können zu jedem Zeitpunkt des Lebenszyklus Alternativen für eine Entscheidung objektiv identifiziert, charakterisiert und ausgewertet werden und die vorteilhafteste Vorgehensweise ausgewählt werden&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As defined by ISO/IEC/IEEE 15288,&#xD;&#xA;[6.3.3.1] The purpose of the Decision Management process is to provide a structured, analytical framework for objectively identifying, characterizing and evaluating a set of alternatives for a decision at any point in the life cycle and select the most beneficial course of action."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acquisition report"
+    id="25206609-1075-4ce5-8d8f-d0463a796959"
+    documentation="An account prepared for interested parties in order to communicate the status, results, and outcomes of the acquisition activities">
+  <properties
+      key="en_Name"
+      value="Acquisition report"/>
+  <properties
+      key="de_Name"
+      value="Beschaffungsbericht"/>
+  <properties
+      key="de_Desc"
+      value="Der Beschaffungsbericht ist ein für Beteiligte erstellter Bericht um den Stand, die Resultate und die Ergebnisse der Beschaffungsaktivitäten zu kommunizieren."/>
+  <properties
+      key="en_Desc"
+      value="An account prepared for interested parties in order to communicate the status, results, and outcomes of the acquisition activities"/>
+</archimate:BusinessObject>

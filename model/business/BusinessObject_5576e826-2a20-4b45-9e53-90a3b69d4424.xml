@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge management plan"
+    id="5576e826-2a20-4b45-9e53-90a3b69d4424"
+    documentation="Establishes how the organization and projects within the organization will interact to ensure the right level of knowledge is captured to provide useful knowledge assets. Includes a list of applicable domains; plans for obtaining and maintaining knowledge assets for their useful life; characterization of the types of assets to be collected and maintained along with a scheme to classify them for the convenience of users; criteria for accepting, qualifying, and retiring knowledge assets; procedures for controlling changes to the knowledge assets; and definition of a mechanism for knowledge asset storage and retrieval">
+  <properties
+      key="en_Name"
+      value="Knowledge management plan"/>
+  <properties
+      key="de_Name"
+      value="Wissensmanagementplan"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Wissensmanagementplan legt fest, wie die Organisation und die Projekte innerhalb der Organisation das richtige Maß an Wissen erfassen, damit sichergestellt ist, dass alle nützlichen Wissensressourcen zur Verfügung stehen.&#xD;&#xA;Er enthält:&#xD;&#xA;- eine Liste der zu berücksichtigenden Domänen,&#xD;&#xA;- Pläne für den Erhalt und die Pflege der Wissensressourcen im Rahmen ihrer Nutzungsdauer,&#xD;&#xA;- die Beschreibung der Arten von Wissensressourcen, die gesammelt und gepflegt werden sollen, zusammen mit einem für den Nutzer zweckdienlichen Klassifikationsschema,&#xD;&#xA;- Kriterien für die Annahme, die Qualifizierung und das Zurückziehen von Wissensressourcen,&#xD;&#xA;- Verfahren zur Steuerung von Änderungen an den Wissensressourcen und,&#xD;&#xA;- die Definition von Mechanismen zur Speicherung und zum Abrufen der Wissensressourcen."/>
+  <properties
+      key="en_Desc"
+      value="Establishes how the organization and projects within the organization will interact to ensure the right level of knowledge is captured to provide useful knowledge assets. Includes a list of applicable domains; plans for obtaining and maintaining knowledge assets for their useful life; characterization of the types of assets to be collected and maintained along with a scheme to classify them for the convenience of users; criteria for accepting, qualifying, and retiring knowledge assets; procedures for controlling changes to the knowledge assets; and definition of a mechanism for knowledge asset storage and retrieval"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project Assessment and Control"
+    id="029eec0c-36b5-42e0-8bed-96cd6d7182c4"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.3.2.1] The purpose of the Project Assessment and Control process is to assess if the plans are aligned and feasible; determine the status of the project, technical and process performance; and direct execution to ensure that the performance is according to plans and schedules, within projected budgets, to satisfy technical objectives.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 108">
+  <properties
+      key="en_Name"
+      value="Project Assessment and Control"/>
+  <properties
+      key="de_Name"
+      value="Projektbewertung und -steuerung"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.2.1] Der Zweck des Prozesses &quot;Projektbewertung und -steuerung&quot; ist es einzuschätzen, ob die Pläne abgestimmt und durchführbar sind. Darüber hinaus wird der Zustand des Projekts sowie die technische und die Prozessleistung ermittelt und das Projekt so gelenkt, dass die Ergebnisse den Aktivitäts- und Terminplänen entsprechen, innerhalb des geplanten Budgets liegen und die technischen Ziele erreicht werden&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.3.2.1] The purpose of the Project Assessment and Control process is to assess if the plans are aligned and feasible; determine the status of the project, technical and process performance; and direct execution to ensure that the performance is according to plans and schedules, within projected budgets, to satisfy technical objectives."/>
+</archimate:BusinessFunction>

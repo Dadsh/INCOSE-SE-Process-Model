@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project schedule"
+    id="15d17abc-2d9e-4323-be4e-1d7730d99a7f"
+    documentation="A linked list of a project’s milestones, activities, and deliverables with intended start and finish dates. May include a top‐level milestone schedule and multiple levels (also called tiers) of schedules of increasing detail and task descriptions with completion criteria and work authorizations">
+  <properties
+      key="en_Name"
+      value="Project schedule"/>
+  <properties
+      key="de_Name"
+      value="Projektzeitplan"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Projektzeitplan des Projekts ist eine verknüpfte Liste der meilensteine, Aktivitäten und Ergebnisse mit geplanten Start- und Endtermine.&#xD;&#xA;Er kann einen übergeordneten Meilensteinplan sowie mehrere Ebenen von Zeitplänen mit steigendem Detaillierungsgrad und Aufgabenbeschreibungen mit Abnahmekriterien und berechtigungen enthalten&quot;."/>
+  <properties
+      key="en_Desc"
+      value="A linked list of a project’s milestones, activities, and deliverables with intended start and finish dates. May include a top‐level milestone schedule and multiple levels (also called tiers) of schedules of increasing detail and task descriptions with completion criteria and work authorizations"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stakeholder requirements traceability"
+    id="36d4a899-bde6-4e37-8fa6-79df485d155c"
+    documentation="Bidirectional traceability of the stakeholder requirements">
+  <properties
+      key="en_Name"
+      value="Stakeholder requirements traceability"/>
+  <properties
+      key="de_Name"
+      value="Rückverfolgbarkeit der Stakeholder-Anforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Rückverfolgbarkeit der Stakeholde-Anforderungen bedeutet immer bidirektionale Nachverfolgbarkeit der Stakeholder-Anforderungen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Bidirectional traceability of the stakeholder requirements"/>
+</archimate:BusinessObject>

@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prepare for system analysis"
+    id="1775df04-3e4e-4bd1-8df8-9dc820b2e90b"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 75">
+  <properties
+      key="de_Name"
+      value="Vorbereiten der Systemanalyse"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Prepare for system analysis"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relate the architecture to design"
+    id="dc73650c-61a1-4761-afc8-95d38de90e07"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 67">
+  <properties
+      key="de_Name"
+      value="Verbinden von Architektur und Entwurf"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Relate the architecture to design"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

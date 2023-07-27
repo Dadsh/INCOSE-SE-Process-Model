@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan configuration management"
+    id="db04b580-bcd0-46ac-8a21-1af8cf995847"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 123">
+  <properties
+      key="de_Name"
+      value="Planen des Konfigurationsmanagements"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Plan configuration management"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

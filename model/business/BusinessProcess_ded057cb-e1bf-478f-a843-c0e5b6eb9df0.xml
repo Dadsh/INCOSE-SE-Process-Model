@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Respond to a tender"
+    id="ded057cb-e1bf-478f-a843-c0e5b6eb9df0"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 143">
+  <properties
+      key="de_Name"
+      value="Beteiligen an einer Ausschreibung"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Respond to a tender"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

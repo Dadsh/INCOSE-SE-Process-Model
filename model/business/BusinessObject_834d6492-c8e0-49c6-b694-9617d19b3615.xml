@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implementation constraints"
+    id="834d6492-c8e0-49c6-b694-9617d19b3615"
+    documentation="Any constraints on the system arising from the implementation strategy including cost, schedule, and technical constraints">
+  <properties
+      key="en_Name"
+      value="Implementation constraints"/>
+  <properties
+      key="de_Name"
+      value="Umsetzungsbedingte Einschränkungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die umsetzungsbedingten Einschränkungen umfassen sämtliche Einschränkungen an das System, die sich aus der Umsetzungsstrategie ergeben, einschließlich Kosten, Zeitrahmen und technischen Einschränkungen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Any constraints on the system arising from the implementation strategy including cost, schedule, and technical constraints"/>
+</archimate:BusinessObject>

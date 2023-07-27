@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procedures"
+    id="5d9b53ba-66e5-4951-afbe-b67f1386d462"
+    documentation="Procedures from all applicable life cycle processes, including integration procedure, verification procedure, installation procedure, validation procedure, maintenance procedure, and disposal procedure">
+  <properties
+      key="en_Name"
+      value="Procedures"/>
+  <properties
+      key="de_Name"
+      value="Verfahren"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Verfahren sind besondere Vorgehensweisen in allen anwendbaren Lebenszyklusprozesse. Sie umfassen Verfahren zur Integration, zur Verifikation, zur Installation, zur Validierung, zur Wartung und zur Entsorgung&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Procedures from all applicable life cycle processes, including integration procedure, verification procedure, installation procedure, validation procedure, maintenance procedure, and disposal procedure"/>
+</archimate:BusinessObject>

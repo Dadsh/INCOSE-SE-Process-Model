@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operation record"
+    id="20efbdce-14b8-49b0-9629-e78959697e7a"
+    documentation="Permanent, readable form of data, information, or knowledge related to operation">
+  <properties
+      key="en_Name"
+      value="Operation record"/>
+  <properties
+      key="de_Name"
+      value="Betriebsprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Betriebsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder Wissens bezogen auf den Betrieb.&quot;"/>
+  <properties
+      key="en_Desc"
+      value="Permanent, readable form of data, information, or knowledge related to operation"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintenance"
+    id="d489ff5e-6c55-4351-bc61-5d2f7ff52e54"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.13] The purpose of the Maintenance process is to sustain the capability of the system to provide a service.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 97">
+  <properties
+      key="en_Name"
+      value="Maintenance"/>
+  <properties
+      key="de_Name"
+      value="Wartung"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.13] Der Zweck des Prozesses &quot;Wartung&quot; besteht darin, die Fähigkeit des Systems, seine Dienste zu erbringen, aufrechtzuerhalten&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.13] The purpose of the Maintenance process is to sustain the capability of the system to provide a service."/>
+</archimate:BusinessFunction>

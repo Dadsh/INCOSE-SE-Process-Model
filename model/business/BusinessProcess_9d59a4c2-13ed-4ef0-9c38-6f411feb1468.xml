@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Make and manage decisions"
+    id="9d59a4c2-13ed-4ef0-9c38-6f411feb1468"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 112">
+  <properties
+      key="de_Name"
+      value="Treffen und Verwalten von Entscheidungen"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Make and manage decisions"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

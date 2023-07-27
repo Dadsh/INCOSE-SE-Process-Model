@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support the customer"
+    id="54306410-bc43-43a4-82b8-7f9b332abfa3"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 96">
+  <properties
+      key="de_Name"
+      value="Unterstützen des Kunden"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Support the customer"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

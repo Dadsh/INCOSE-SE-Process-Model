@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integration procedure"
+    id="1cd9a51f-2e0f-4ca4-9b46-41b4069810eb"
+    documentation="An assembly procedure that groups a set of elementary assembly actions to build an aggregate of implemented system elements, using specific integration techniques, performed with specific integration enablers">
+  <properties
+      key="en_Name"
+      value="Integration procedure"/>
+  <properties
+      key="de_Name"
+      value="Integrationsverfahren"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Integrationsverfahren umfasst eine Reihe von grundlegenden Aktivitäten zum Zusammenbau von Systemelementen zu grüßeren Einheiten eines Systems, unter Verwendung spezieller Techniken und Hilfsmitteln dafür&quot;."/>
+  <properties
+      key="en_Desc"
+      value="An assembly procedure that groups a set of elementary assembly actions to build an aggregate of implemented system elements, using specific integration techniques, performed with specific integration enablers"/>
+</archimate:BusinessObject>

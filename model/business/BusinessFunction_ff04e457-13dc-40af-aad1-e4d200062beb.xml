@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge Management"
+    id="ff04e457-13dc-40af-aad1-e4d200062beb"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;The purpose of the Knowledge Management process is to create the capability and assets that enable the organization to exploit opportunities to re‐apply existing knowledge.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 158">
+  <properties
+      key="en_Name"
+      value="Knowledge Management"/>
+  <properties
+      key="de_Name"
+      value="Wissensmanagement"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;Der Zweck des Prozesses &quot;Wissensmanagement&quot; ist es, die Fähigkeiten und Wissensbestände zu schaffen, mit denen die Organisation in die Lage versetzt wird, Chancen zu nutzen und bestehendes Wissen erneut anzuwenden&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;The purpose of the Knowledge Management process is to create the capability and assets that enable the organization to exploit opportunities to re‐apply existing knowledge."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architecture definition record"
+    id="59fc8b2f-647a-4c00-9859-f1e25773e843"
+    documentation="Permanent, readable form of data, information, or knowledge related to architecture definition">
+  <properties
+      key="en_Name"
+      value="Architecture definition record"/>
+  <properties
+      key="de_Name"
+      value="Architekturgestaltungsprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Architekturgestaltungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Architekturgestaltung.&quot;"/>
+  <properties
+      key="en_Desc"
+      value="Permanent, readable form of data, information, or knowledge related to architecture definition"/>
+</archimate:BusinessObject>

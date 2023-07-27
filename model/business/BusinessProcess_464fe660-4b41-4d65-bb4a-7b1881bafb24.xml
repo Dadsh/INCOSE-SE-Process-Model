@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform measurement"
+    id="464fe660-4b41-4d65-bb4a-7b1881bafb24"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 131">
+  <properties
+      key="de_Name"
+      value="Durchführen der Messung"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Perform measurement"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

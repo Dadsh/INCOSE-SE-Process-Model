@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QM corrective actions"
+    id="556efe37-961e-4bb2-aacc-5e3cffc946dd"
+    documentation="Actions taken when quality goals are not achieved. Resulting from project‐related and process‐related reviews and audits">
+  <properties
+      key="en_Name"
+      value="QM corrective actions"/>
+  <properties
+      key="de_Name"
+      value="QM Korrekturmaßnahmen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Korrekturmaßnahmen des QM (Qualitätsmanagements) sind Maßnahmen die durchgeführt werden, wenn Qualitätsziele nicht erreicht werden. Sie resultieren aus projektbegleitenden und prozessbezogene Bewertungen und Prüfungen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Actions taken when quality goals are not achieved. Resulting from project‐related and process‐related reviews and audits"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Management"
+    id="6fab2289-0d98-43f7-98e5-516aa0e46709"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.3.6.1] The purpose of the Information Management process is to generate, obtain, confirm, transform, retain, retrieve, disseminate and dispose of information, to designated stakeholders. &#xD;&#xA;Information management plans, executes, and controls the provision of information to designated stakeholders that is unambiguous, complete, verifiable, consistent, modifiable, traceable, and presentable. Information includes technical, project, organizational, agreement, and user information. Information is often derived from data records of the organization, system, process, or project.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 128">
+  <properties
+      key="en_Name"
+      value="Information Management"/>
+  <properties
+      key="de_Name"
+      value="Informationsmanagement"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.6.1] Der Zweck des Prozesses &quot;Informationsmanagement&quot; ist es, für festgelegte Stakeholder Informationen zu erzeugen, zu erhalten, zu bestätigen, umzuwandeln, zu sichern, abzufragen, zu verbreiten und zu löschen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.3.6.1] The purpose of the Information Management process is to generate, obtain, confirm, transform, retain, retrieve, disseminate and dispose of information, to designated stakeholders. &#xD;&#xA;Information management plans, executes, and controls the provision of information to designated stakeholders that is unambiguous, complete, verifiable, consistent, modifiable, traceable, and presentable. Information includes technical, project, organizational, agreement, and user information. Information is often derived from data records of the organization, system, process, or project."/>
+</archimate:BusinessFunction>

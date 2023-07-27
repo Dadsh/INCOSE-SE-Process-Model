@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish and maintain an agreement"
+    id="9f1cabf9-c5ac-40c6-8e5f-ca4168811c82"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 143">
+  <properties
+      key="de_Name"
+      value="Vertragliche Vereinbarungen treffen"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Establish and maintain an agreement"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluate the portfolio of projects"
+    id="720f998b-5bb2-4bf7-8eb0-32ad8bc72f4d"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 153">
+  <properties
+      key="de_Name"
+      value="Auswerten von Projektportfolios"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Evaluate the portfolio of projects"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

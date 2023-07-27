@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System Requirements Definition"
+    id="9c83d5ef-01d7-4808-ad06-e4493fbf9cf6"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.3.1] The purpose of the System Requirements Definition process is to transform the stakeholder, useroriented view of desired capabilities into a technical view of a solution that meets the operational needs of the user.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 57">
+  <properties
+      key="en_Name"
+      value="System Requirements Definition"/>
+  <properties
+      key="de_Name"
+      value="Definition der Systemanforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.3.1] Zweck des Prozesses &quot;Definition der Systemanforderungen&quot; ist die Überführung der Stakeholder- bzw. Nutzersicht auf die gewünschten Fähigkeiten in eine technische Sicht auf eine Lösung, die die betriebsbezogenen Bedarfe der Nutzer erfüllt&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.3.1] The purpose of the System Requirements Definition process is to transform the stakeholder, useroriented view of desired capabilities into a technical view of a solution that meets the operational needs of the user."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Design Definition"
+    id="b8ac0880-99a6-478a-bf9d-ea454b055bd1"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.5.1] The purpose of the Design Definition process is to provide sufficient detailed data and information about the system and its elements to enable the imple-&#xD;&#xA;mentation consistent with architectural entities as defined in models and views of the system architecture.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 70">
+  <properties
+      key="en_Name"
+      value="Design Definition"/>
+  <properties
+      key="de_Name"
+      value="Entwurf"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.5.1] Der Zweck des Prozesses &quot;Entwurf&quot; besteht darin, ausreichend detaillierte Daten und Informationen über das System und seine Elemente zu liefern, so dass die Umsetzung in Übereinstimmung mit den in den Modellen und Ansichten der Systemarchitektur definierten Architektureinheiten erfolgen kann&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.5.1] The purpose of the Design Definition process is to provide sufficient detailed data and information about the system and its elements to enable the imple-&#xD;&#xA;mentation consistent with architectural entities as defined in models and views of the system architecture."/>
+</archimate:BusinessFunction>

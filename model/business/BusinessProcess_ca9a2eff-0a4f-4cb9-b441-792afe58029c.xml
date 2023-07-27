@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform verification"
+    id="ca9a2eff-0a4f-4cb9-b441-792afe58029c"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 84">
+  <properties
+      key="de_Name"
+      value="Durchführen der Verifikation"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Perform verification"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

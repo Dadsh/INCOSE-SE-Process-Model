@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project control requests"
+    id="00414204-af8c-4af7-8cde-cd1acd96c3e9"
+    documentation="Internal project directives based on action required due to deviations from the project plan. New directions are communicated to both project team and customer, when appropriate. If assessments are associated with a decision gate, a decision to proceed, or not to proceed, is taken">
+  <properties
+      key="en_Name"
+      value="Project control requests"/>
+  <properties
+      key="de_Name"
+      value="Projektsteuerungsanträge"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Projektsteuerungsanträge sind interne Projektvorgaben, die auf Handlungen beruhen, die sich aufgrund von Abweichungen zum Projektplan ergeben. Sie werden - falls erforderlich - sowohl dem Projektteam als auch dem Kunden mitgeteilt. Wenn Bewertungen mit einer Enrscheidungsschwelle verbunden sind, muss eine Entscheidung getroffen werden, ob fortgefahren werden soll oder nicht&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Internal project directives based on action required due to deviations from the project plan. New directions are communicated to both project team and customer, when appropriate. If assessments are associated with a decision gate, a decision to proceed, or not to proceed, is taken"/>
+</archimate:BusinessObject>

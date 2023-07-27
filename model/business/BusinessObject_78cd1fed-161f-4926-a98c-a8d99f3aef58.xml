@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintenance record"
+    id="78cd1fed-161f-4926-a98c-a8d99f3aef58"
+    documentation="Permanent, readable form of data, information, or knowledge related to maintenance">
+  <properties
+      key="en_Name"
+      value="Maintenance record"/>
+  <properties
+      key="de_Name"
+      value="Wartungsprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Warungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Wartung&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Permanent, readable form of data, information, or knowledge related to maintenance"/>
+</archimate:BusinessObject>

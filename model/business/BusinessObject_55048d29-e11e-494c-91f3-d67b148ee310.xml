@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Design definition strategy"
+    id="55048d29-e11e-494c-91f3-d67b148ee310"
+    documentation="Approaches, schedules, resources, and specific considerations required to define the system design that is consistent with the selected system architecture and satisfies the requirements">
+  <properties
+      key="en_Name"
+      value="Design definition strategy"/>
+  <properties
+      key="de_Name"
+      value="Entwurfsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Entwurfsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um das System zu entwerfen, das stimmig mit der ausgewählten Systemarchitektur ist und die Anforderungen erfüllt&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Approaches, schedules, resources, and specific considerations required to define the system design that is consistent with the selected system architecture and satisfies the requirements"/>
+</archimate:BusinessObject>

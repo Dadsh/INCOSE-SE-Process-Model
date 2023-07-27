@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage knowledge, skills and knowledge assets"
+    id="fb5daa60-be78-4f66-918f-9518e0fca3aa"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 160">
+  <properties
+      key="de_Name"
+      value="Verwalten von Wissen, Fertigkeiten und Wissensbeständen"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Manage knowledge, skills and knowledge assets"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

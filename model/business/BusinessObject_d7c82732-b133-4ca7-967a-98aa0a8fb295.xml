@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implementation record"
+    id="d7c82732-b133-4ca7-967a-98aa0a8fb295"
+    documentation="Permanent, readable form of data, information, or knowledge related to implementation">
+  <properties
+      key="en_Name"
+      value="Implementation record"/>
+  <properties
+      key="de_Name"
+      value="Umsetzungsprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Das Umsetzungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Umsetzung&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Permanent, readable form of data, information, or knowledge related to implementation"/>
+</archimate:BusinessObject>

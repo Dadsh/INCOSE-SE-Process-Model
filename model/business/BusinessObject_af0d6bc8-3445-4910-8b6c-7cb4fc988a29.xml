@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preliminary MOE needs"
+    id="af0d6bc8-3445-4910-8b6c-7cb4fc988a29"
+    documentation="Preliminary identification of the MOEs (Roedler and Jones, 2006), which define the information needs of the decision makers with respect to system effectiveness to meet operational expectations">
+  <properties
+      key="en_Name"
+      value="Preliminary MOE needs"/>
+  <properties
+      key="de_Name"
+      value="Bedarf an vorläufigen Wirksamkeitsmessungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Bedarf an vorläufigen Wirksamkeits-Messungen umfasst die vorläufigen Wirksamkeitskennzahlen (MOE) (Roedler und Jones, 2006), die den Informationsbedarf der Entscheidungsträger in Bezug auf die Wirksamkeit des Systems definieren, die operativen Erwartungen zu erfüllen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Preliminary identification of the MOEs (Roedler and Jones, 2006), which define the information needs of the decision makers with respect to system effectiveness to meet operational expectations"/>
+</archimate:BusinessObject>

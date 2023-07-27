@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assess the process"
+    id="2ba9055a-4928-4157-814c-8eb9d8a2d518"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 147">
+  <properties
+      key="de_Name"
+      value="Bewerten des Prozesses"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Assess the process"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acquisition agreement"
+    id="636e2201-493e-4e4a-a39d-8f0fda24748d"
+    documentation="An understanding of the relationship and commitments between the project organization and the supplier. The agreement can vary from formal contracts to less formal interorganizational work orders. Formal agreements typically include terms and conditions">
+  <properties
+      key="en_Name"
+      value="Acquisition agreement"/>
+  <properties
+      key="de_Name"
+      value="Beschaffungsvertrag"/>
+  <properties
+      key="de_Desc"
+      value="Ein Beschaffungsvertrag ist eine Übereinkunft bezüglich des Verhältnisses und der Verpflichtungen zwischen der Projektorganisation und dem Zulieferer. Die Übereinkunft kann von formalen Verträgen bis hin zu weniger formalen unternehmensinternen Arbeitsanweisungen reichen.&#xD;&#xA;&#xD;&#xA;Verträge beinhalten typischerweise allgemeine Geschäfts- bzw. Auftragsbedingungen."/>
+  <properties
+      key="en_Desc"
+      value="An understanding of the relationship and commitments between the project organization and the supplier. The agreement can vary from formal contracts to less formal interorganizational work orders. Formal agreements typically include terms and conditions"/>
+</archimate:BusinessObject>

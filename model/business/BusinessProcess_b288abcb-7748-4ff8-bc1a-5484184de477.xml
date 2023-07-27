@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control the project"
+    id="b288abcb-7748-4ff8-bc1a-5484184de477"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 110">
+  <properties
+      key="de_Name"
+      value="Steuern des Projekts"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Control the project"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

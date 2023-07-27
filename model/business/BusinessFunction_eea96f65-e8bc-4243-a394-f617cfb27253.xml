@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuration Management"
+    id="eea96f65-e8bc-4243-a394-f617cfb27253"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.3.5.1] The purpose of the Configuration Management process is to manage and control system elements and configurations over the life cycle. CM also manages consistency between a product and its associated configuration definition.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 122">
+  <properties
+      key="en_Name"
+      value="Configuration Management"/>
+  <properties
+      key="de_Name"
+      value="Konfigurationsmanagement"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.3.5.1] Der Zweck des Prozesses &quot;Konfigurationsmanagement&quot; ist das Verwalten und Steuern von Systemelementen und Konfigurationen während des gesamten Lebenszyklus. Das Konfiturationsmanagement sichert auch die Konsistenz zwischen einem Produkt und der zugehörigen Konfigurationsdefinition&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.3.5.1] The purpose of the Configuration Management process is to manage and control system elements and configurations over the life cycle. CM also manages consistency between a product and its associated configuration definition."/>
+</archimate:BusinessFunction>

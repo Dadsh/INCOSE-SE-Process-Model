@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Concept of operations (ConOps)"
+    id="ab33d3d2-038d-4226-bbeb-b2e920743d9f"
+    documentation="The ConOps is a verbal and/or graphic statement prepared for the organization’s leadership that describes the assumptions or intent regarding the overall operation or series of operations of the enterprise, to include any new capability (ANSI/AIAA, 2012; ISO/IEC/IEEE 29148, 2011)">
+  <properties
+      key="en_Name"
+      value="Concept of operations (ConOps)"/>
+  <properties
+      key="de_Name"
+      value="Vorgehenskonzept (ConOps)"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Das Vorgehenskonzept (ConOps) ist eine verbale oder auch graphische Beschreibung für die Organisationsleitung. Es beschreibt die Annahmen bzw. Absichten in Bezug auf einen Vorgang oder eine Serie von Vorgängen im Rahmen des Vorhabens, um alle neuen Fähigkeiten mit einzubeziehen. (ANSI/AIAA, 2012; ISO/IEC/IEEE 29148, 2011)&quot;"/>
+  <properties
+      key="en_Desc"
+      value="The ConOps is a verbal and/or graphic statement prepared for the organization’s leadership that describes the assumptions or intent regarding the overall operation or series of operations of the enterprise, to include any new capability (ANSI/AIAA, 2012; ISO/IEC/IEEE 29148, 2011)"/>
+</archimate:BusinessObject>

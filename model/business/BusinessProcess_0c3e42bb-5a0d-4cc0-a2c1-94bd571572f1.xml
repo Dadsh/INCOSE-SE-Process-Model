@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finalize the disposal"
+    id="0c3e42bb-5a0d-4cc0-a2c1-94bd571572f1"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 102">
+  <properties
+      key="de_Name"
+      value="Abschließen der Entsorgung"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Finalize the disposal"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validation report"
+    id="3793befa-68b0-41d4-be75-b1ccb189f430"
+    documentation="An account prepared for interested parties in order to communicate the status, results, and outcomes of the validation activities. Includes validation results and the objective evidence confirming that the system satisfies its stakeholder requirements and business requirements or not. Should also communicate an assessment of the confidence level of the findings or results">
+  <properties
+      key="en_Name"
+      value="Validation report"/>
+  <properties
+      key="de_Name"
+      value="Validierungsbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Validierungsbericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Validierungsaktivitäten zu kommunizieren. Er enthält Ergebnisse der Validierung und den objektiven Nachweis der bestätigt, dass das System die Anforderungen von Stakeholdern und die geschäftlichen Anforderungen erfüllt oder nicht erfüllt. Der Validierungsbericht sollte auch eine Bewertung der Verlässlichkeit dieser Ergebnisse bzw. Ergenntnisse umfassen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="An account prepared for interested parties in order to communicate the status, results, and outcomes of the validation activities. Includes validation results and the objective evidence confirming that the system satisfies its stakeholder requirements and business requirements or not. Should also communicate an assessment of the confidence level of the findings or results"/>
+</archimate:BusinessObject>

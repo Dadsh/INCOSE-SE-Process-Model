@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintenance constraints"
+    id="9f891887-b6a0-4b65-93d4-a6e461a06cfc"
+    documentation="Any constraints on the system arising from the maintenance strategy including cost, schedule, and technical constraints">
+  <properties
+      key="en_Name"
+      value="Maintenance constraints"/>
+  <properties
+      key="de_Name"
+      value="wartungsbedingte Einschränkungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die wartungsbedingten Einschränkungen umfassen sämtliche Einschränkungen an das System, die sich aus der Instandhaltungsstrategie ergeben, einschließlich der Kosten, des Zeitrahmens und der technischen Einschränkungen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Any constraints on the system arising from the maintenance strategy including cost, schedule, and technical constraints"/>
+</archimate:BusinessObject>

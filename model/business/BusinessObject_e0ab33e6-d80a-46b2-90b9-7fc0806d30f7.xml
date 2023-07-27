@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reports"
+    id="e0ab33e6-d80a-46b2-90b9-7fc0806d30f7"
+    documentation="Project reports from all applicable life cycle processes, including system analysis report, implementation report, integration report, verification report, transition report, validation report, operation report, maintenance report, disposal report, decision report, risk report, configuration management report, information management report, measurement report, quality assurance report, acquisition report, and supply report (other reports go to other process areas and are not aggregated here)">
+  <properties
+      key="en_Name"
+      value="Reports"/>
+  <properties
+      key="de_Name"
+      value="Berichte"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Berichte sind Darstellungen aus allen anwendbaren Lebenszyklusprozessen. Sie umfassen Berichte zu System-Analyse, Umsetzung, Integration, Verifikation, Übergaben, Validierung, Betrieb, Wartung, Entsorgung, Entscheidungen, Risiken, Konfigurationsmanagement, Informationsmanagement, Messungen, Qualitätssicherung, Beschaffungen, Zulieferungen. (Informationen zu anderen Berichten und werden nicht hier aufgeführt)&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Project reports from all applicable life cycle processes, including system analysis report, implementation report, integration report, verification report, transition report, validation report, operation report, maintenance report, disposal report, decision report, risk report, configuration management report, information management report, measurement report, quality assurance report, acquisition report, and supply report (other reports go to other process areas and are not aggregated here)"/>
+</archimate:BusinessObject>

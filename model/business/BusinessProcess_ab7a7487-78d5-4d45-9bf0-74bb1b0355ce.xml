@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pefrorm configuration evaluation"
+    id="ab7a7487-78d5-4d45-9bf0-74bb1b0355ce"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 124">
+  <properties
+      key="de_Name"
+      value="Durchführen der Konfigurationsüberprüfung"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Pefrorm configuration evaluation"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

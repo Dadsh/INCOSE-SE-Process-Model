@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supply report"
+    id="6c9e0231-450d-4afd-8eb1-bc266f39177f"
+    documentation="An account prepared for interested parties in order to communicate the status, results, and outcomes of the supply activities">
+  <properties
+      key="en_Name"
+      value="Supply report"/>
+  <properties
+      key="de_Name"
+      value="Zulieferungsbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Zulieferungsbericht ist in für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Zulieferungsaktivitäten zu kommunizieren."/>
+  <properties
+      key="en_Desc"
+      value="An account prepared for interested parties in order to communicate the status, results, and outcomes of the supply activities"/>
+</archimate:BusinessObject>

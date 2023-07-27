@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validation strategy"
+    id="6c54ba35-1dad-4cc3-ae60-d04b5c2ef19d"
+    documentation="Approaches, schedules, resources, and specific considerations required to accomplish the selected validation actions that minimize costs and risks while maximizing operational coverage of system behaviors">
+  <properties
+      key="en_Name"
+      value="Validation strategy"/>
+  <properties
+      key="de_Name"
+      value="Validierungsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Validierungsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um die ausgewählten Validierungstätigkeiten durchzuführen, durch die Kosten und Risiken gesenkt und gleichzeitig das betriebsbezogene Systemverhalten maximal abgedeckt wird&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Approaches, schedules, resources, and specific considerations required to accomplish the selected validation actions that minimize costs and risks while maximizing operational coverage of system behaviors"/>
+</archimate:BusinessObject>

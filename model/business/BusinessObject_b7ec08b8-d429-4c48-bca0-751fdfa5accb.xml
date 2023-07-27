@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Candidate configuration items"
+    id="b7ec08b8-d429-4c48-bca0-751fdfa5accb"
+    documentation="Items for configuration control. Can originate from any life cycle process">
+  <properties
+      key="en_Name"
+      value="Candidate configuration items"/>
+  <properties
+      key="de_Name"
+      value="mögliche Konfigurationseinheiten"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Mögliche Konfigurationseinheiten sind alle Einheiten, die unter Konfigurationskontrolle gestellt werden sollen. Sie können in jedem Lebenszyklusprozess entstehen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Items for configuration control. Can originate from any life cycle process"/>
+</archimate:BusinessObject>

@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform operation"
+    id="457d14be-dfdf-4570-8f54-c43d2c806e90"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 96">
+  <properties
+      key="de_Name"
+      value="Durchführen des Betriebs"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Perform operation"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

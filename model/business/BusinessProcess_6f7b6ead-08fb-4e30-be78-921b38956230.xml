@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze system requirements"
+    id="6f7b6ead-08fb-4e30-be78-921b38956230"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 59">
+  <properties
+      key="de_Name"
+      value="Analysieren der Systemanforderungen"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Analyze system requirements"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

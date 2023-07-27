@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project change requests"
+    id="a2651f57-5803-4a88-a6bf-fa1bb13958c7"
+    documentation="Requests to update any formal baselines that have been established. In many cases, the need for change requests is identified during the project assessment and control process. Can originate from any life cycle process">
+  <properties
+      key="en_Name"
+      value="Project change requests"/>
+  <properties
+      key="de_Name"
+      value="Projektänderungsanträge"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Projektänderungsanträge sind die Anträge, festgelegte, formale Referenzkonfigurationen zu ändern. In vielen Fällen wird die Notwendigkeit eines Änderungsantrags während der Prozesse zur Projektbewertung und -steuerung erkannt. Änderungsanträge können aus jedem Lebenszyklusprozess resultieren&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Requests to update any formal baselines that have been established. In many cases, the need for change requests is identified during the project assessment and control process. Can originate from any life cycle process"/>
+</archimate:BusinessObject>

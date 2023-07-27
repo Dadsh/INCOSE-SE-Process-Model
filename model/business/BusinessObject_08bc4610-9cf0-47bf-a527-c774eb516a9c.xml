@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Source documents"
+    id="08bc4610-9cf0-47bf-a527-c774eb516a9c"
+    documentation="External documents relevant to the particular stage of procurement activity for the system of interest. Includes the written directives embodied in the source documents relevant to organizational strategies and policies">
+  <properties
+      key="en_Name"
+      value="Source documents"/>
+  <properties
+      key="de_Name"
+      value="Quelldokumente"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Quelldokumente sind externe Dokumente, die zu einer bestimmten Phase der Beschaffungen für das Zielsystem von Interesse sind. Dazu gehört auch die Abschrift von relevanten organisatorischen Strategien und Regelungen, die sich in den Quelldokumenten finden&quot;."/>
+  <properties
+      key="en_Desc"
+      value="External documents relevant to the particular stage of procurement activity for the system of interest. Includes the written directives embodied in the source documents relevant to organizational strategies and policies"/>
+</archimate:BusinessObject>

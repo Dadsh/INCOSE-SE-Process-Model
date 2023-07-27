@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stakeholder needs and requirements definition strategy"
+    id="01a98b72-0c19-4ec4-9d48-0fc28c743eb0"
+    documentation="Approaches, schedules, resources, and specific considerations required to&#xD;&#xA;reflect consensus among the stakeholder classes to establish a common set of&#xD;&#xA;acceptable requirements. Includes the approach to capture the stakeholder needs, transform them into stakeholder requirements, and manage them through the life cycle">
+  <properties
+      key="en_Name"
+      value="Stakeholder needs and requirements definition strategy"/>
+  <properties
+      key="de_Name"
+      value="Strategie zur Definition der Stakeholder-Bedarfe und -Anforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Strategie zur Definition de Stakeholder-Bedarfe und -Anforderungen umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um Einigkeit zwischen den Stakeholder-Klassen über einen Katalog von angemessenen Anforderungen zu erzielen. Beinhaltet den Ansatz zur Aufnahme der Stakeholder-Bedarfe, zur Überführung in Stakeholder-Anforderungen und zur Verwaltung dieser über den gesamten Lebenszyklus hinweg&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Approaches, schedules, resources, and specific considerations required to&#xD;&#xA;reflect consensus among the stakeholder classes to establish a common set of&#xD;&#xA;acceptable requirements. Includes the approach to capture the stakeholder needs, transform them into stakeholder requirements, and manage them through the life cycle"/>
+</archimate:BusinessObject>

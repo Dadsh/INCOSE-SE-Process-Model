@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validation criteria"
+    id="8d46c7ee-17b7-4f8f-8871-bed4f0a37965"
+    documentation="The validation criteria (the measures to be assessed), who will perform validation activities, and the validation environments of the system of interest">
+  <properties
+      key="en_Name"
+      value="Validation criteria"/>
+  <properties
+      key="de_Name"
+      value="Validierungskriterien"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Validierungskriterien (zu untersuchende Kennzahlen) umfassen die Validierungsaktivitäten und auch das Validierungsumfeld des Zielsystems&quot;."/>
+  <properties
+      key="en_Desc"
+      value="The validation criteria (the measures to be assessed), who will perform validation activities, and the validation environments of the system of interest"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure management report"
+    id="8125ddd6-a161-4c29-9943-8382f1773807"
+    documentation="An account prepared for interested parties in order to communicate the status, results, and outcomes of the infrastructure management activities. Includes cost, usage, downtime/response measures, etc. These can be used to support capacity planning for upcoming projects">
+  <properties
+      key="en_Name"
+      value="Infrastructure management report"/>
+  <properties
+      key="de_Name"
+      value="Infrastrukturmanagementbericht"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Der Infrastrukturmanagement-Bericht ist ein für Beteiligte erstellter Bericht, um den Stand, die Resultate und Ergebnisse der Infrastrukturmanagementaktivitäten zu kommunizieren.&#xD;&#xA;Der Bericht beinhaltet Kennzahlen zu Kosten, zur Nutzung, zu Stillstand- und Reparaturzeiten etc. Er kann genutzt werden, um die Kapazitätsplanung nachfolgender Projekte zu unterstützen."/>
+  <properties
+      key="en_Desc"
+      value="An account prepared for interested parties in order to communicate the status, results, and outcomes of the infrastructure management activities. Includes cost, usage, downtime/response measures, etc. These can be used to support capacity planning for upcoming projects"/>
+</archimate:BusinessObject>

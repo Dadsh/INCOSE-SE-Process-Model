@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architecture definition strategy"
+    id="65414be5-43e5-47c0-97eb-901cbc4d3fca"
+    documentation="Approaches, schedules, resources, and specific considerations required to define the selected system architecture that satisfies the requirements">
+  <properties
+      key="en_Name"
+      value="Architecture definition strategy"/>
+  <properties
+      key="de_Name"
+      value="Architekturgestaltungsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Architekturgestaltungsstrategue umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um die Systemarchitektur festzulegen, die die Anforderungen erfüllt.&quot;"/>
+  <properties
+      key="en_Desc"
+      value="Approaches, schedules, resources, and specific considerations required to define the selected system architecture that satisfies the requirements"/>
+</archimate:BusinessObject>

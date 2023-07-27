@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quality Management"
+    id="13e0bed5-2e8c-4178-a392-b9b7080c92d6"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.2.5.1] The purpose of the Quality Management process is to assure that products, services and implementations of the quality management process meet organizational and project quality objectives and achieve customer satisfaction.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 156">
+  <properties
+      key="en_Name"
+      value="Quality Management"/>
+  <properties
+      key="de_Name"
+      value="Qualitätsmanagement"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.2.5.1] Der Zweck des Prozesses &quot;Qualitätsmanagement&quot; besteht darin sicherzustellen, dass die Produkte und Dienstleistungen sowie die Anwendung des qualitätsmanagements die Qualitätsziele der Organisation erreichen und die Kunden zufriedenstellen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.2.5.1] The purpose of the Quality Management process is to assure that products, services and implementations of the quality management process meet organizational and project quality objectives and achieve customer satisfaction."/>
+</archimate:BusinessFunction>

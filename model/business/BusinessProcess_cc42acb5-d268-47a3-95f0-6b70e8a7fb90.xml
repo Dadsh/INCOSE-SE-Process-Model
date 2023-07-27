@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify skills"
+    id="cc42acb5-d268-47a3-95f0-6b70e8a7fb90"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 154">
+  <properties
+      key="de_Name"
+      value="Fähigkeiten ermitteln"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Identify skills"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

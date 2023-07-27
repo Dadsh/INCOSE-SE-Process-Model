@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organizational policies, procedures, and assets"
+    id="1d2251e0-5b01-4f1d-8977-aa94784fc444"
+    documentation="Items related to the organization’s standard set of life cycle processes, including guidelines and reporting mechanisms. Organization process guidelines in the form of organization policies, procedures, and assets for applying the system life cycle processes and adapting them to meet the needs of individual projects (e.g., templates, checklists, forms). Includes defining responsibilities, accountability, and authority for all SE processes within the organization">
+  <properties
+      key="en_Name"
+      value="Organizational policies, procedures, and assets"/>
+  <properties
+      key="de_Name"
+      value="Richtlinien, Verfahren und Mittel der Organisation"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Richtlinien, Verfahren und Mittel der Organisation umfassen alle Dinge, die im Unternehmen standardmäßig mit den Lebenszyklusprozessen zusammenhängen, einschließlich der Vorgaben und Berichtsmechanismen. Dazu zählen Richtlinien zu den Prozessen der Organisation in Form von Vorschriften, Verfahren und Mitteln für die Anwendung der System-Lebenszyklusprozesse und deren Anpassung, um den Bedarfen von einzelnen Projekte gerecht zu werden (zum Beispiel Vorlagen, Checklisten, Formulare). Sie umfassen auch die Festlegung von Zuständigkeiten, Verantwortung und Berechtigung für alle SE Prozesse innerhalb der Organisation."/>
+  <properties
+      key="en_Desc"
+      value="Items related to the organization’s standard set of life cycle processes, including guidelines and reporting mechanisms. Organization process guidelines in the form of organization policies, procedures, and assets for applying the system life cycle processes and adapting them to meet the needs of individual projects (e.g., templates, checklists, forms). Includes defining responsibilities, accountability, and authority for all SE processes within the organization"/>
+</archimate:BusinessObject>

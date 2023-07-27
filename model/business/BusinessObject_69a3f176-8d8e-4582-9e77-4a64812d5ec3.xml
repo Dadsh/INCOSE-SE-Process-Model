@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business requirements traceability"
+    id="69a3f176-8d8e-4582-9e77-4a64812d5ec3"
+    documentation="Bidirectional traceability of the business requirements">
+  <properties
+      key="en_Name"
+      value="Business requirements traceability"/>
+  <properties
+      key="de_Name"
+      value="Rückverfolgbarkeit der Geschäftsanforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Rückverfolgbarkeit der Geschäftsanforderungen bedeutet immer bidirektionale Nachverfolgbarkeit der Geschäftsanforderungen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Bidirectional traceability of the business requirements"/>
+</archimate:BusinessObject>

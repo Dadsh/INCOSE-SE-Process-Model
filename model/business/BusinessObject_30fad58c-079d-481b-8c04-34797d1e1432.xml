@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Disposal constraints"
+    id="30fad58c-079d-481b-8c04-34797d1e1432"
+    documentation="Any constraints on the system arising from the disposal strategy including cost, schedule, and technical constraints">
+  <properties
+      key="en_Name"
+      value="Disposal constraints"/>
+  <properties
+      key="de_Name"
+      value="entsorgungsbedingte Einschränkungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die entsorgungsbedingten Einschränkungen umfassen sämtliche Einschränkungen an das System, die sich aus der Entsorgungsstrategie ergeben, einschließlich Kosten, Zeitrahmen und technischen Einschränkungen.&quot;"/>
+  <properties
+      key="en_Desc"
+      value="Any constraints on the system arising from the disposal strategy including cost, schedule, and technical constraints"/>
+</archimate:BusinessObject>

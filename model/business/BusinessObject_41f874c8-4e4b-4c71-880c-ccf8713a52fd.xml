@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request for supply"
+    id="41f874c8-4e4b-4c71-880c-ccf8713a52fd"
+    documentation="A request to an external supplying organization to propose a solution to meet a need for a system element or system (product or service). The organization can identify candidate suppliers that could meet this need. Inputs are received from the project personnel in the organization with the need">
+  <properties
+      key="en_Name"
+      value="Request for supply"/>
+  <properties
+      key="de_Name"
+      value="Beschaffungsanfrage"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Eine Beschaffungsanfrage ist eine Anfrage an einen externen Zulieferer, einen Lösungsvorschlag für den Bedarf zu einem System-Element oder System (Produkt oder Dienstleistung) vorzuschlagen. Die Projektorganisation kann mögliche Lieferanten, die diesen Bedarf befriedigen könnten, vorgeschlagen. Die Inhalte der Beschaffungsanfrage stammen von den Projektmitarbeitern der Organisation die den Bedarf hat."/>
+  <properties
+      key="en_Desc"
+      value="A request to an external supplying organization to propose a solution to meet a need for a system element or system (product or service). The organization can identify candidate suppliers that could meet this need. Inputs are received from the project personnel in the organization with the need"/>
+</archimate:BusinessObject>

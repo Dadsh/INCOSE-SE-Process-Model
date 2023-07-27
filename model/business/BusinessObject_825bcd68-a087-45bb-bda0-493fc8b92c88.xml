@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Qualified personnel"
+    id="825bcd68-a087-45bb-bda0-493fc8b92c88"
+    documentation="The right people with the right skills are assigned at the right time to projects per their skill needs and timing">
+  <properties
+      key="en_Name"
+      value="Qualified personnel"/>
+  <properties
+      key="de_Name"
+      value="qualifiziertes Personal"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;&quot;Die richtigen Leute mit den richtigen Fähigkeiten werden zum richtigen Zeitpunkt im Projekt eingesetzt&quot;&quot;."/>
+  <properties
+      key="en_Desc"
+      value="The right people with the right skills are assigned at the right time to projects per their skill needs and timing"/>
+</archimate:BusinessObject>

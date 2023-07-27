@@ -1,0 +1,15 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Descriptions"
+    id="31a7bcf0-add6-49ac-9887-d6f89b699df1">
+  <properties
+      key="de_Name"
+      value="Prozessbeschreibungen"/>
+  <properties
+      key="en_Name"
+      value="Process Descriptions"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Desc"/>
+</archimate:Folder>

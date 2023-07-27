@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project constraints"
+    id="c0e1d3e2-e427-4617-bfb8-7960e6d676dd"
+    documentation="Any constraints on the system arising from the technical management strategy including cost, schedule, and technical constraints">
+  <properties
+      key="en_Name"
+      value="Project constraints"/>
+  <properties
+      key="de_Name"
+      value="projektbedingte Einschränkungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die projektbedingten Einschränkungen umfassen sämtliche Einschränkungen an das System, die sich aus der Strategie des technischen Managements sowie Kosten, Zeitrahmen und technischen Einschränkungen ergeben&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Any constraints on the system arising from the technical management strategy including cost, schedule, and technical constraints"/>
+</archimate:BusinessObject>

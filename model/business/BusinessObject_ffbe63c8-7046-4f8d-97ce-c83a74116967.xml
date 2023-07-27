@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verification constraints"
+    id="ffbe63c8-7046-4f8d-97ce-c83a74116967"
+    documentation="Any constraint on the system arising from the verification strategy including cost, schedule, and technical constraints">
+  <properties
+      key="en_Name"
+      value="Verification constraints"/>
+  <properties
+      key="de_Name"
+      value="Einschränkungen aufgrund der Verifikation"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Einschränkungen aufgrund der Verifikation umfassen sämtliche Einschränkungen an das System, die sich aus der Verifikationsstrategie sowie Kosten, Zeitrahmen und technischen Einschränkungen ergeben.&quot;"/>
+  <properties
+      key="en_Desc"
+      value="Any constraint on the system arising from the verification strategy including cost, schedule, and technical constraints"/>
+</archimate:BusinessObject>

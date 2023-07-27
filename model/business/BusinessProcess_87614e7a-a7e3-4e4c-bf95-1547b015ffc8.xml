@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prepare for verification"
+    id="87614e7a-a7e3-4e4c-bf95-1547b015ffc8"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 83">
+  <properties
+      key="de_Name"
+      value="Vorbereiten der Verifikation"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Prepare for verification"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

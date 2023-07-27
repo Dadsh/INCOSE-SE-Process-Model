@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SEMP"
+    id="04c94723-71e4-41f9-9202-3e5d2b274900"
+    documentation="Systems engineering management plan. The top‐level plan for managing the SE effort. It defines how the project will be organized, structured, and conducted and how the total engineering process will be controlled to provide a product that satisfies stakeholder requirements. Includes identification of required technical reviews and their completion criteria, methods for controlling changes, risk and opportunity assessment and methodology, and identification of other technical plans and documentation to be produced for the project">
+  <properties
+      key="en_Name"
+      value="SEMP"/>
+  <properties
+      key="de_Name"
+      value="SEMP"/>
+  <properties
+      key="de_Desc"
+      value="Systems engineering management plan. The top‐level plan for managing the SE effort. It defines how the project will be organized, structured, and conducted and how the total engineering process will be controlled to provide a product that satisfies stakeholder requirements. Includes identification of required technical reviews and their completion criteria, methods for controlling changes, risk and opportunity assessment and methodology, and identification of other technical plans and documentation to be produced for the project"/>
+  <properties
+      key="en_Desc"
+      value="Systems engineering management plan. The top‐level plan for managing the SE effort. It defines how the project will be organized, structured, and conducted and how the total engineering process will be controlled to provide a product that satisfies stakeholder requirements. Includes identification of required technical reviews and their completion criteria, methods for controlling changes, risk and opportunity assessment and methodology, and identification of other technical plans and documentation to be produced for the project"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Life cycle concepts"
+    id="e65566b5-1d74-4440-91e1-bbbffae5fd4b"
+    documentation="Articulation and refinement of the various life cycle concepts consistent with the business needs in the form of life cycle concept documents on which the system of interest is based, assessed, and selected. The architecture is based on these concepts, and they are essential in providing context for proper interpretation of the system requirements. Typical concepts include:&#xD;&#xA;• Acquisition concept&#xD;&#xA;• Deployment concept&#xD;&#xA;• Operational concept (OpsCon)&#xD;&#xA;• Support concept&#xD;&#xA;• Retirement concept">
+  <properties
+      key="en_Name"
+      value="Life cycle concepts"/>
+  <properties
+      key="de_Name"
+      value="Lebenszykluskonzepte"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Lebenszykluskonzepte umfassen die Beschreibung und Verfeinerung der verschiedenen Lebenszykluskonzepte im Einklang mit den Geschäftsbedarfen in Form von Dokumenten zum Lebenszykluskonzept, auf dem das Zielsystem basiert, es bewertet und ausgewählt wird.&#xD;&#xA;Die Architektur basiert auf diesen Lebenszykluskonzepten und sie sind von wesentlicher Bedeutung bei der Bereitstellung des Konzepts für die richtige Interpretation der Systemanforderungen.&#xD;&#xA;Typische Lebenszykluskonzepte beinhaltet:&#xD;&#xA;- Beschaffungskonzept,&#xD;&#xA;- Bereitstellungskonzept,&#xD;&#xA;- Betriebskonzept (OpsCon),&#xD;&#xA;- Instandhaltungskonzept und&#xD;&#xA;- Stillegungskonzept&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Articulation and refinement of the various life cycle concepts consistent with the business needs in the form of life cycle concept documents on which the system of interest is based, assessed, and selected. The architecture is based on these concepts, and they are essential in providing context for proper interpretation of the system requirements. Typical concepts include:&#xD;&#xA;• Acquisition concept&#xD;&#xA;• Deployment concept&#xD;&#xA;• Operational concept (OpsCon)&#xD;&#xA;• Support concept&#xD;&#xA;• Retirement concept"/>
+</archimate:BusinessObject>

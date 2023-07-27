@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verification strategy"
+    id="17d08260-28d0-4381-a1bf-31ea252d918d"
+    documentation="Approaches, schedules, resources, and specific considerations required to accomplish the selected verification actions that minimize costs and risks while maximizing operational coverage of system behavior">
+  <properties
+      key="en_Name"
+      value="Verification strategy"/>
+  <properties
+      key="de_Name"
+      value="Verifikationsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Verifikationsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um die ausgewählten Verifikationstätigkeiten durchzuführen, durch die Kosten und Risiken gesenkt und gleichzeitig das betriebsbezogene Systemverhalten maximal abdeckt wird&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Approaches, schedules, resources, and specific considerations required to accomplish the selected verification actions that minimize costs and risks while maximizing operational coverage of system behavior"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verification"
+    id="1f4dc672-97ff-4f00-8b2b-20e42d40daa5"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.9.1] The purpose of the Verification process is to provide objective evidence that a system or system element fulfils its specified requirements and characteristics.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 83">
+  <properties
+      key="en_Name"
+      value="Verification"/>
+  <properties
+      key="de_Name"
+      value="Verifikation"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.9.1] Der Zweck des Prozesses &quot;Verifikation&quot; ist es, nachzuweisen, dass das System die spezifizierten Anforderungen erfüllt und die geforderten Eigenschaften besitzt&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.9.1] The purpose of the Verification process is to provide objective evidence that a system or system element fulfils its specified requirements and characteristics."/>
+</archimate:BusinessFunction>

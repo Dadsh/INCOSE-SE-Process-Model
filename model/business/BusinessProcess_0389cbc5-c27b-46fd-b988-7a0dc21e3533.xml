@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform information management"
+    id="0389cbc5-c27b-46fd-b988-7a0dc21e3533"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 129">
+  <properties
+      key="de_Name"
+      value="Durchführen des Informationsmanagements"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Perform information management"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

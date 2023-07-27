@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategy documents"
+    id="bd4606a1-70de-4e1f-89f2-d25e897552cc"
+    documentation="Strategies for all applicable life processes, including business or mission analysis strategy, stakeholder needs and requirements definition strategy, system requirements definition strategy, architecture definition strategy, design definition strategy, system analysis strategy, implementation strategy, integration strategy, verification strategy, transition strategy, validation strategy, operation strategy, maintenance strategy, disposal strategy, project assessment and control strategy, decision management strategy, risk management strategy, configuration management strategy, information management strategy, measurement strategy, acquisition strategy, and supply strategy">
+  <properties
+      key="en_Name"
+      value="Strategy documents"/>
+  <properties
+      key="de_Name"
+      value="Strategiedokumente"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Strategiedokumente umfassen die Strategien für alle anwendbaren Lebenszyklusvorgänge, einschließlich der Strategien zur Geschäfts- oder Auftragsanalyse, zur Stakeholderbedarfs- und Stakeholderanforderungsermittlung, zur Definition der Systemanforderungen, zur Architekturdefinition, zur Entwurfsgestaltung, zur Systemanalyse, zur Umsetzung, zur Integration, zur Verifikation, zur Übergabe, zur Validierung, zum Betrieb, zur Instandhaltung, zur Entsorgung, zur Projektbewertung und -kontrolle, zum Entscheidungsmanagement, zum Risikomanagement, zum Konfigurationsmanagement, zum Datenmanagement, zur Messung, zur Beschaffung und zur Zulieferung&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Strategies for all applicable life processes, including business or mission analysis strategy, stakeholder needs and requirements definition strategy, system requirements definition strategy, architecture definition strategy, design definition strategy, system analysis strategy, implementation strategy, integration strategy, verification strategy, transition strategy, validation strategy, operation strategy, maintenance strategy, disposal strategy, project assessment and control strategy, decision management strategy, risk management strategy, configuration management strategy, information management strategy, measurement strategy, acquisition strategy, and supply strategy"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Design traceability"
+    id="b6edf327-79de-4fbf-b594-ddaad1046ab9"
+    documentation="Bidirectional traceability of the design characteristics, the design enablers, and the system element requirements">
+  <properties
+      key="en_Name"
+      value="Design traceability"/>
+  <properties
+      key="de_Name"
+      value="Rückverfolgbarkeit des Entwurfs"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Rückverfolgbarkeit des Entwurfs bedeutet immer bidirektionale Nachverfolgbarkeit der Entwurfsmerkmale, Entwurfsmittel und der Anforderungen an die Systemelemente&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Bidirectional traceability of the design characteristics, the design enablers, and the system element requirements"/>
+</archimate:BusinessObject>

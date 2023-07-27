@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System architecture rationale"
+    id="95d9105e-3d79-48bf-ad81-d34628503715"
+    documentation="Rationale for architecture selection, technological/technical system element selection, and allocation between system requirements and architectural entities (e.g., functions, input/output flows, system elements, physical interfaces, architectural characteristics, information/data elements, containers, nodes, links, communication resources)">
+  <properties
+      key="en_Name"
+      value="System architecture rationale"/>
+  <properties
+      key="de_Name"
+      value="Begründung der Systemarchitektur"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Begründung der Systemarchitektur ist die Erklärung für die Auswahl einer Architektur, die Auswahl der technologischen bzw. technischen Systemelemente und der Zuweisung der Systemanforderungen zu architektonischen Elementen (z. B. Funktionen, Eingabe- bzw. Ausgabeflüssen, Systemelementen, physikalischen Schnittstellen, architektonischen Besonderheiten, Informations- bzw. Datenelementen, Datenträger, Datenknoten, Verbindungen, Kommunikations-Ressourcen).&quot;"/>
+  <properties
+      key="en_Desc"
+      value="Rationale for architecture selection, technological/technical system element selection, and allocation between system requirements and architectural entities (e.g., functions, input/output flows, system elements, physical interfaces, architectural characteristics, information/data elements, containers, nodes, links, communication resources)"/>
+</archimate:BusinessObject>

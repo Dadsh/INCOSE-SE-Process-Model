@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Share knowledge assets throughout the organization"
+    id="d89f0b95-52db-44f4-83db-9dfa796e24bc"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 160">
+  <properties
+      key="de_Name"
+      value="Verteilen von Wissensbeständen in der Organisation"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Share knowledge assets throughout the organization"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

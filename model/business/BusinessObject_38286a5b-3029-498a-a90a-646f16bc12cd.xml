@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integration strategy"
+    id="38286a5b-3029-498a-a90a-646f16bc12cd"
+    documentation="Approaches, schedules, resources, and specific considerations required to integrate the system elements">
+  <properties
+      key="en_Name"
+      value="Integration strategy"/>
+  <properties
+      key="de_Name"
+      value="Integrationsstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Integrationsstrategie umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um die Systemelemente zu integrieren&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Approaches, schedules, resources, and specific considerations required to integrate the system elements"/>
+</archimate:BusinessObject>

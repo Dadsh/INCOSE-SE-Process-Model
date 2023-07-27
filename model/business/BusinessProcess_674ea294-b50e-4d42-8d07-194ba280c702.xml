@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop architecture viewpoints"
+    id="674ea294-b50e-4d42-8d07-194ba280c702"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 66">
+  <properties
+      key="de_Name"
+      value="Architekturperspektiven entwickeln"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Develop architecture viewpoints"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

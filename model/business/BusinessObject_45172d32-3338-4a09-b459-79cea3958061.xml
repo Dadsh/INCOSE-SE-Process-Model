@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organizational process performance measures data"
+    id="45172d32-3338-4a09-b459-79cea3958061"
+    documentation="Data provided for the identified measurement needs">
+  <properties
+      key="en_Name"
+      value="Organizational process performance measures data"/>
+  <properties
+      key="de_Name"
+      value="Leistungsmessdaten der Organisationsprozesse"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Die Liestungsmessdaten der Organisationsprozesse sind die für die identifizierten Messbedarfe an Organisationsprozessen bereitgestelten Daten."/>
+  <properties
+      key="en_Desc"
+      value="Data provided for the identified measurement needs"/>
+</archimate:BusinessObject>

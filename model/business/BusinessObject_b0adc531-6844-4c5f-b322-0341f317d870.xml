@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decision management strategy"
+    id="b0adc531-6844-4c5f-b322-0341f317d870"
+    documentation="Approaches, schedules, resources, and specific considerations required to perform decision management for a project">
+  <properties
+      key="en_Name"
+      value="Decision management strategy"/>
+  <properties
+      key="de_Name"
+      value="Entscheidungsmanagementstrategie"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Entscheidungsmanagement-Strategie umfasst die die Vorgehensweisen, Zeitpläne, Ressourcen und konkreten Überlegungen, um das Entscheidungsmanagement im Rahmen eines Projekts durchzuführen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Approaches, schedules, resources, and specific considerations required to perform decision management for a project"/>
+</archimate:BusinessObject>

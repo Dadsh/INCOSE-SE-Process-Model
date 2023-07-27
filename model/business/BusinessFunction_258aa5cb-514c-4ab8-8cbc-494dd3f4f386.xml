@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System Analysis"
+    id="258aa5cb-514c-4ab8-8cbc-494dd3f4f386"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.6.1] The purpose of the System Analysis process is to provide a rigorous basis of data and information for technical understanding to aid decision‐making across the life cycle.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 74">
+  <properties
+      key="en_Name"
+      value="System Analysis"/>
+  <properties
+      key="de_Name"
+      value="Systemanalyse"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.6.1] Der Zweck des Prozesses &quot;Systemanalyse&quot; besteht darin, eine klare Grundlage an Daten und Informationen für das technische Verständnis zu schaffen, die als Entscheidungshilfe über den ganzen Lebenszyklus dient&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.6.1] The purpose of the System Analysis process is to provide a rigorous basis of data and information for technical understanding to aid decision‐making across the life cycle."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decision record"
+    id="271f1dbb-7d05-4e65-b423-e6e564e0c9d1"
+    documentation="Permanent, readable form of data, information, or knowledge related to decision management">
+  <properties
+      key="en_Name"
+      value="Decision record"/>
+  <properties
+      key="de_Name"
+      value="Entscheidungsprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Entscheidungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf Entscheidungen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Permanent, readable form of data, information, or knowledge related to decision management"/>
+</archimate:BusinessObject>

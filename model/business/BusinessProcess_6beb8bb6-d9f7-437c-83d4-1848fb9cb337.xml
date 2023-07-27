@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Execute the agreement"
+    id="6beb8bb6-d9f7-437c-83d4-1848fb9cb337"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 144">
+  <properties
+      key="de_Name"
+      value="Ausführen des Vertrages"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Execute the agreement"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

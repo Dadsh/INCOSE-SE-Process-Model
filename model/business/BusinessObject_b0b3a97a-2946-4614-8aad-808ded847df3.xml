@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project portfolio"
+    id="b0b3a97a-2946-4614-8aad-808ded847df3"
+    documentation="The necessary information for all of the organizations’ projects. The initiation of new projects or the setting up of a product line management approach. Includes the project goals, resources, budgets identified and allocated to the projects, and clearly defined project management accountability and authorities">
+  <properties
+      key="en_Name"
+      value="Project portfolio"/>
+  <properties
+      key="de_Name"
+      value="Projektportfolio"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Das Projektportfolio umfasst die notwendigen Informationen über alle Projekte einer Organisation. Dazu zählt das Aufsetzen neuer Projekte ebenso wie das Einrichten von Ansätzen zum Produktrichtlinienmanagement. Das Projektportfolio enthält die Projektziele, die Ressourcen, das identifizierte und den Projekten zugeordnete Budge sowie klar definierte Verantwortlichkeiten und Weisungsbefugnisse zum Projektmanagement&quot;."/>
+  <properties
+      key="en_Desc"
+      value="The necessary information for all of the organizations’ projects. The initiation of new projects or the setting up of a product line management approach. Includes the project goals, resources, budgets identified and allocated to the projects, and clearly defined project management accountability and authorities"/>
+</archimate:BusinessObject>

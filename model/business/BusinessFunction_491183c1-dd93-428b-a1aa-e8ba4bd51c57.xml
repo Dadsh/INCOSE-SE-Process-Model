@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architecture Definition"
+    id="491183c1-dd93-428b-a1aa-e8ba4bd51c57"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.4.1] The purpose of the Architecture Definition process is to generate system architecture alternatives, to select one or more alternative(s) that frame stakeholder&#xD;&#xA;concerns and meet system requirements, and to express this in a set of consistent views.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 64">
+  <properties
+      key="en_Name"
+      value="Architecture Definition"/>
+  <properties
+      key="de_Name"
+      value="Architekturgestaltung"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.4.4.1] Der Zweck des Prozesses &quot;Architekturgestaltung&quot; besteht darin, alternative Systemarchitekturen zu entwickeln, eine oder mehrere Alternativen auszuwählen, die den Stakeholder-Anliegen entsprechen sowie die Systemanforderungen erfüllen und dies in einer Reihe konsistenter Ansichten darzustellen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.4.4.1] The purpose of the Architecture Definition process is to generate system architecture alternatives, to select one or more alternative(s) that frame stakeholder&#xD;&#xA;concerns and meet system requirements, and to express this in a set of consistent views."/>
+</archimate:BusinessFunction>

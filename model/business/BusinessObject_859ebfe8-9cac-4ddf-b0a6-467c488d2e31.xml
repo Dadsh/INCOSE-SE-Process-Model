@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validation procedure"
+    id="859ebfe8-9cac-4ddf-b0a6-467c488d2e31"
+    documentation="A validation procedure that includes a set of validation actions, using specific validation techniques, performed with specific validation enablers">
+  <properties
+      key="en_Name"
+      value="Validation procedure"/>
+  <properties
+      key="de_Name"
+      value="Validierungsverfahren"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Validierungsverfahren umfasst eine Reihe von Aktivitäten zur Validierung eines Systems, die mittels speziellen Techniken und Hilfsmitteln dafür durchgeführt werden&quot;."/>
+  <properties
+      key="en_Desc"
+      value="A validation procedure that includes a set of validation actions, using specific validation techniques, performed with specific validation enablers"/>
+</archimate:BusinessObject>

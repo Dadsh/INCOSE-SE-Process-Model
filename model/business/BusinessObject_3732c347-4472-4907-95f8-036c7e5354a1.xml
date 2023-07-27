@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stakeholder needs and requirements definition record"
+    id="3732c347-4472-4907-95f8-036c7e5354a1"
+    documentation="Permanent, readable form of data, information, or knowledge related to stakeholder needs and requirements definition">
+  <properties
+      key="en_Name"
+      value="Stakeholder needs and requirements definition record"/>
+  <properties
+      key="de_Name"
+      value="Protokoll zur Definition der Stakeholder-Bedarfe und -Anforderungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Protokoll der Definition der Stakeholder-Bedarfe und -Anforderungen enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Definition von Stakeholder-Bedarfen und -Anforderungen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Permanent, readable form of data, information, or knowledge related to stakeholder needs and requirements definition"/>
+</archimate:BusinessObject>

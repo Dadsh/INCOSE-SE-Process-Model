@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interface definition update identification"
+    id="6fb56e3e-f6da-4bbb-99e1-4faa6a94d14d"
+    documentation="Identification of updates to interface requirements and definitions, if any">
+  <properties
+      key="en_Name"
+      value="Interface definition update identification"/>
+  <properties
+      key="de_Name"
+      value="Kennzeichnung aktualisierter Schnittstellendefinitionen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Kennzeichnung aktualisierter Schnittstelldefinitionen umfasst die Kennzeichnung von Schnittstellen an denen Änderungen der Schnittstellenanforderungen und -definitionen durchgeführt wurden&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Identification of updates to interface requirements and definitions, if any"/>
+</archimate:BusinessObject>

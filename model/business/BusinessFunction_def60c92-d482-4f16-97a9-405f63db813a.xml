@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Resource Management"
+    id="def60c92-d482-4f16-97a9-405f63db813a"
+    documentation="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.2.4.1] The purpose of the Human Resource Management process is to provide the organization with necessary human resources and to maintain their competencies, consistent with business needs.&#xD;&#xA;&#xD;&#xA;See detailed description in the INCOSE Handbook v.4, page 154">
+  <properties
+      key="en_Name"
+      value="Human Resource Management"/>
+  <properties
+      key="de_Name"
+      value="Personalmanagement"/>
+  <properties
+      key="de_Desc"
+      value="Gemäß ISO/IEC/IEEE 15288 (laut INCOSE Handbuch 4.0 - übersetzt von GfSE):&#xD;&#xA;&quot;[6.2.4.1] Der Zweck des Prozesses &quot;Personalmanagement&quot; ist es, der Organisation das benötigte Personal bereitzustellen und dafür zu sorgen, dass die Fähigkeiten des Personals den Geschäftsbedarfen entsprechen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="As stated in ISO/IEC/IEEE 15288,&#xD;&#xA;[6.2.4.1] The purpose of the Human Resource Management process is to provide the organization with necessary human resources and to maintain their competencies, consistent with business needs."/>
+</archimate:BusinessFunction>

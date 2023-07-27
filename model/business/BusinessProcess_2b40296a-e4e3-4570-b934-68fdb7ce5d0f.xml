@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan quality management"
+    id="2b40296a-e4e3-4570-b934-68fdb7ce5d0f"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 156">
+  <properties
+      key="de_Name"
+      value="Olanen des Qualitätsmanagements"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Plan quality management"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

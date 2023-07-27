@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Disposal record"
+    id="9b21ff96-8373-451a-8c8c-cc5367fcfca0"
+    documentation="Permanent, readable form of data, information, or knowledge related to disposal">
+  <properties
+      key="en_Name"
+      value="Disposal record"/>
+  <properties
+      key="de_Name"
+      value="Entsorgungsprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein Entsorgungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Entsorgung.&quot;"/>
+  <properties
+      key="en_Desc"
+      value="Permanent, readable form of data, information, or knowledge related to disposal"/>
+</archimate:BusinessObject>

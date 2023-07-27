@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validation constraints"
+    id="67b72b13-0ac1-42aa-9bc4-23ff8846867c"
+    documentation="Any constraint on the system arising from the validation strategy including cost, schedule, and technical constraints">
+  <properties
+      key="en_Name"
+      value="Validation constraints"/>
+  <properties
+      key="de_Name"
+      value="Einschränkungen aufgrund der Validierung"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Einschränkungen aufgrund der VValidierung umfassen sämtliche Einschränkungen an das System, die sich aus der Validerungsstrategie sowie Kosten, Zeitrahmen und technischen Einschränkungen ergeben.&quot;"/>
+  <properties
+      key="en_Desc"
+      value="Any constraint on the system arising from the validation strategy including cost, schedule, and technical constraints"/>
+</archimate:BusinessObject>

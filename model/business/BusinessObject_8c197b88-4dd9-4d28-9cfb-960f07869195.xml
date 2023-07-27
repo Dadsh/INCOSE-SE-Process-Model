@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supply record"
+    id="8c197b88-4dd9-4d28-9cfb-960f07869195"
+    documentation="Permanent, readable form of data, information, or knowledge related to supply">
+  <properties
+      key="en_Name"
+      value="Supply record"/>
+  <properties
+      key="de_Name"
+      value="Zulieferungsprotokoll"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;Ein Zulieferungsprotokoll enthält die lesbaren Aufzeichnungen der Daten, Informationen oder des Wissens bezogen auf die Zulieferung."/>
+  <properties
+      key="en_Desc"
+      value="Permanent, readable form of data, information, or knowledge related to supply"/>
+</archimate:BusinessObject>

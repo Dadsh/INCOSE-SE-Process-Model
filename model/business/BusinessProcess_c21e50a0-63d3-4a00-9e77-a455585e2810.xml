@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor the agreement"
+    id="c21e50a0-63d3-4a00-9e77-a455585e2810"
+    documentation="See detailed description in the INCOSE Handbook v.4, page 141">
+  <properties
+      key="de_Name"
+      value="Überwachen des Vertrags"/>
+  <properties
+      key="de_Desc"/>
+  <properties
+      key="en_Name"
+      value="Monitor the agreement"/>
+  <properties
+      key="en_Desc"/>
+</archimate:BusinessProcess>

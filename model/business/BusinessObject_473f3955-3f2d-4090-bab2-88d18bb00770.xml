@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transition enabling system requirements"
+    id="473f3955-3f2d-4090-bab2-88d18bb00770"
+    documentation="Requirements for any systems needed to enable transition of the system of interest">
+  <properties
+      key="en_Name"
+      value="Transition enabling system requirements"/>
+  <properties
+      key="de_Name"
+      value="Anforderungen an die umsetzungsunterstützenden Systeme"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Anforderungen an die übergabeunterstützenden Systeme sind die Anforderungen an alle Systeme, die die Übergabe des Zielsystems ermöglichen.&quot;"/>
+  <properties
+      key="en_Desc"
+      value="Requirements for any systems needed to enable transition of the system of interest"/>
+</archimate:BusinessObject>

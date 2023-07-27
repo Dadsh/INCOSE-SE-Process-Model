@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project performance measures needs"
+    id="90cf1423-3569-429a-a248-83baac38d066"
+    documentation="Identification of the project performance measures, which measure how well the project is satisfying it objectives">
+  <properties
+      key="en_Name"
+      value="Project performance measures needs"/>
+  <properties
+      key="de_Name"
+      value="Bedarf an Projekt-Leistungskennzahlen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Der Bedarf an Projekt-Leistungskennzahlen umfasst die Projekt-Leistungskennzahlen, die messen, wie gut das Projekt seine Ziele erfüllt&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Identification of the project performance measures, which measure how well the project is satisfying it objectives"/>
+</archimate:BusinessObject>

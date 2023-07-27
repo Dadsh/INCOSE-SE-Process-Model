@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transition constraints"
+    id="4fdb2e50-512e-416b-b2a0-adb06284014a"
+    documentation="Any constraints on the system arising from the transition strategy including cost, schedule, and technical constraints">
+  <properties
+      key="en_Name"
+      value="Transition constraints"/>
+  <properties
+      key="de_Name"
+      value="übergabebedingte Einschränkungen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die übergabebedingten Einschränkungen umfassen sämtliche Einschränkungen an das System, die sich aus der Übergabestrategie sowie Kosten, Zeitrahmen und technischen Einschränkungen ergeben&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Any constraints on the system arising from the transition strategy including cost, schedule, and technical constraints"/>
+</archimate:BusinessObject>

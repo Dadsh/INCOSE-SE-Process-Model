@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project assessment and control strategy"
+    id="70b1747a-9598-4365-bd1c-75f6d04fe6a5"
+    documentation="Approaches, schedules, resources, and specific considerations required to perform assessment and control for a project">
+  <properties
+      key="en_Name"
+      value="Project assessment and control strategy"/>
+  <properties
+      key="de_Name"
+      value="Strategie zur Projektbewertung und -steuerung"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Strategie zur Projektbewertung und -steuerung umfasst die Vorgehensweisen, Zeitpläne, Ressourcen und konkrete Überlegungen, um die Projektbewertung und -steuerung im Rahmen eines Projekts durchzuführen&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Approaches, schedules, resources, and specific considerations required to perform assessment and control for a project"/>
+</archimate:BusinessObject>

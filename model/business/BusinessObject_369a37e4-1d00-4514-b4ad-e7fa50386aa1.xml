@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accepted system or system element"
+    id="369a37e4-1d00-4514-b4ad-e7fa50386aa1"
+    documentation="System element or system is transferred from supplier to acquirer and the product or service is available to the project">
+  <properties
+      key="en_Name"
+      value="Accepted system or system element"/>
+  <properties
+      key="de_Name"
+      value="abgenommenes System oder Systemelement"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Ein abgenommenes System oder - Systemelement entspricht einem vom Zulieferer an den Beschaffer übergebenen System oder Systemelement, das dann dem Projekt zur Verfügung steht.&quot;"/>
+  <properties
+      key="en_Desc"
+      value="System element or system is transferred from supplier to acquirer and the product or service is available to the project"/>
+</archimate:BusinessObject>

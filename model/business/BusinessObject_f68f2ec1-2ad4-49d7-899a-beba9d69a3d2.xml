@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System function definition"
+    id="f68f2ec1-2ad4-49d7-899a-beba9d69a3d2"
+    documentation="Definition of the functional boundaries of the system and the functions the system must perform">
+  <properties
+      key="en_Name"
+      value="System function definition"/>
+  <properties
+      key="de_Name"
+      value="Definition der Systemfunktionen"/>
+  <properties
+      key="de_Desc"
+      value="Laut INCOSE Handbuch 4.0 - übersetzt von GfSE:&#xD;&#xA;&quot;Die Definition der Systemfunktionen umfasst die Definition der funktionalen Grenzen des Systems und der Funktionen die das System erfüllen muss&quot;."/>
+  <properties
+      key="en_Desc"
+      value="Definition of the functional boundaries of the system and the functions the system must perform"/>
+</archimate:BusinessObject>
